@@ -4,7 +4,7 @@ title:  "Looking Back at 2021: Year in Review"
 date:   2022-02-02 19:15:59 -0600
 categories: finances wellness crypto
 ---
-As I start htis blog, and we start 2022 - I think it's appropriate to do a look back.  I tend to track metrics focused around Financial Health and General Wellness.  A few years ago I came up with the strategy; I wasn't satisfied with just keeping track of our family budget.  I wanted to know if I was doing well.  In addition, I didn't like the idea of just focusing on money.  Having worked for Microsoft for almost fifteen years now, I'm not stranger to a balanced scorecard - so I've adopted it for my personal life.  Yes, I'm weird; but it works for me and helps me think about the progress I'm making to important goals like financial freedom, a healthy marriage, a spiritually centered life, and a healthy lifestyle.  My KPI's are pretty straight forward:
+As I start this blog, and we start 2022 - I think it's appropriate to do a look back.  I tend to track metrics focused around Financial Health and General Wellness.  A few years ago I came up with the strategy; I wasn't satisfied with just keeping track of our family budget.  I wanted to know if I was doing well.  In addition, I didn't like the idea of just focusing on money.  Having worked for Microsoft for almost fifteen years now, I'm not stranger to a balanced scorecard - so I've adopted it for my personal life.  Yes, I'm weird; but it works for me and helps me think about the progress I'm making to important goals like financial freedom, a healthy marriage, a spiritually centered life, and a healthy lifestyle.  My KPI's are pretty straight forward:
 - Net Worth
 - Return on Assets
 - Investment Performance against Market
