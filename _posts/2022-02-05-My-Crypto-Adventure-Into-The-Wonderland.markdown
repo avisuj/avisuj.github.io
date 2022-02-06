@@ -35,14 +35,14 @@ As crypto has evolved from Proof of Work; any computing resource besides memory 
 
 Because I'm intensely lazy - I really like the Network model.  Currently, I have a Helium and an MXC appliance at my home generating roughly $20/day in coin.  In addition, I've invested in MXC options to leverage mined MXC Coin to mint a sister coin [DHX](https://www.coingecko.com/en/coins/datahighway).
 
-I view mining as different than the other forms of investment because real world connection tends to lower risk.  Since file storage, network, and compute have utility, the coins associated with them transfer real value in an exchange.  
+I view mining as different than the other forms of investment because the real world connection tends to lower risk.  Since file storage, network, and compute have utility, the coins associated with them transfer real value in an exchange.  
 
 ## Infrastructure
-The primary way to gain on Infrastructure coins is to gain from coin appreciation and gain from staking (similar to interest).
+The primary way to gain on Infrastructure coins is from coin appreciation and gain from staking (similar to interest).
 
 The majority of the tokens that are traded in crypto represent smart contracts on specific blockchains.  Blockchains are the core infrastructure of crypto currency.  There are two types of block chains.  [Layer 1](https://www.binance.com/en/blog/fiat/layer-1-blockchain-tokens-everything-you-need-to-know-421499824684903155) chains provide a mechanism for: transaction security, transaction consensus, and transaction reporting.  [Layer 2](https://learn.bybit.com/blockchain/blockchain-layer-1-vs-layer-2) chains build on Layer 1 chains in an effort to increase scale and reduce cost.  
 
-Each individual blockchain has a unique coin that's used to facilitate financial transactions.  For example, if you trade on the Ethereum network every trade will require a little bit of Ethereum to process.  The more apps on Ethereum, the more trades happen.  As trade volume increases, people need more Ethereum for processing.  As people need more Ethereum, the more expensive Ethereum becomes.  
+Each individual blockchain has a unique coin that's used to facilitate financial transactions.  For example, if you trade on the Ethereum network every trade will require a little bit of Ethereum to process.  The more apps on Ethereum, the more trades happen.  As trade volume increases, people need more Ethereum for processing.  As people need more Ethereum, Ethereum becomes more expensive.  
 
 The cost of transactions has led to the explosion of blockchains as different organizations strive to find the most efficient, secure, and reliable way to process transactions.  I currently actively particpate in five networks:
 - Ethereum (L1) - $20.00/transaction
@@ -58,7 +58,7 @@ Gains from [Automated Market Maker](https://www.coingecko.com/en/categories/auto
 
 Automatated Market Makers are exchanges that individuals use to trade tokens.  In addition to the fee that's charged by block chain, the exchange also charges a fee.  People who provide liquidity to the exchange receive a portion of that fee typically in the exchanges reward token.  
 
-Providing liquidity can be tricky; there are some tokens that will pay exchanges extra for a short period of time boost rewards.  These boosts are often short term and are often provided by tokens that are depreciating.  Since you have to hold a specific token in order to provide liquidity, it's very easy to lose money if the token depreciates quickly.
+Providing liquidity can be tricky; there are some tokens that will pay exchanges extra boosting rewards.  These boosts are often short term and are often provided by tokens that are depreciating.  Since you have to hold a specific token in order to provide liquidity, it's very easy to lose money if the token depreciates quickly.
 
 As a general rule, decide what tokens you want to hold and then strive to increase yield by providing those tokens to exchanges.
 
