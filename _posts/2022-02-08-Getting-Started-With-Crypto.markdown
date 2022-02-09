@@ -52,3 +52,6 @@ As a follow-up to my last post on Crypto, I thought I'd consolidate some of my l
     -The naming convention for EVM compatable chains are the same.  This includes Etherum, BSC, MATIC, TRX, AVAX, FTM, etc.
     -Gate.io will allow you to withdraw coin in a variety of different chains.
     -If you transfer coin to your Coinbase or Gemini wallet using a chain other than Ethereum, your funds will be lost.
+-Crypto is a high risk investment; use a [portfolio rebalancing strategy](https://afterschoolfinance.com/portfolio-rebalancing-strategies) to manage your investment.
+    -[Yield Chasing](https://www.wsj.com/articles/crypto-yield-farmers-chase-high-returns-but-risk-losing-it-all-11626514200) and [FOMO Investing](https://monetka.blog/articles/crypto-fud-fomo-holding/) are real and will make you lose your investment.
+    
