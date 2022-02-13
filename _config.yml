@@ -29,10 +29,11 @@ baseurl: / # the subpath of your site, e.g. /blog
 url: https://avisuj.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: avisuj
 github_username:  avisuj
-disqus.shortname: avisuj-blog
+disqus_shortname: avisuj-blog
 rss:  RSS
 show_excerpts: true
 markdown: kramdown
+
 
 # Build settings
 theme: minima
