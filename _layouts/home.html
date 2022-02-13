@@ -12,10 +12,14 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {%- for post in site.posts -%}
+      {%- for post in site.posts limit:10 -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }} -- {{ post.categories | join: ', ' }}</span>
+        <span class="post-meta">{{ post.date | date: date_format }} -- 
+          {%- for category in post.categories -%}
+          &nbsp; <a href="{{ category }}">{{ category }}</a>  
+          {%- endfor -%}
+        </span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
