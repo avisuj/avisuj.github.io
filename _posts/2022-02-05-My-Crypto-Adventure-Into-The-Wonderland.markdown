@@ -2,7 +2,7 @@
 layout: post
 title:  "My Crypto Adventure: Into The Wonderland"
 date:   2022-02-05 19:15:59 -0600
-tags: finances crypto
+categories: [finances, crypto]
 excerpt: "The decentralization inherent within crypto currency allows more people to participate in all aspects of the financial value chain.  By making participation broader, crypto has the promise to unlock increased innovation from people who otherwise would have been frozen out of the market by a competitive moat in the centralized finance system.  I think that is going to create unique opportunities for investment for some time to come."
 ---
 I bought my helium hotspot of June of 2019.  Branded as the people's network, Helium promised to allow people to mine crypto currency via a proof coverage system.  By keeping your miner online, you were rewarded with roughly $3/day in the crypto currency HNT.  In addition, Helium used a small portion of the bandwidth from you home internet to power a LoraWAN network that provided connectivity for IoT devices.  To me this seemed like a great trade; I pay for more bandwidth than I need and by participating in the Helium Network I'm providing connectivity for the IoT revolution without requiring the construction of a new tower.  In 2021 the crypto market experienced a sustained boom.  In September 2021, I was able to sell 2935 HNT for $70,000 USD.  
