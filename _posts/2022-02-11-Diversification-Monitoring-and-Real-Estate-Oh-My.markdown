@@ -2,7 +2,9 @@
 layout: post
 title:  "Diversification, Monitoring, and Real Estate.  Oh My!"
 date:   2022-02-11 19:15:59 -0600
-categories: finances 
+tags: finances 
+excerpt: "I think I'll be able to hit my financial growth goals by keeping a smart weighting on equity, crypto, and real estate investments.  Ultimately, I think the proof will be in the pudding.  In the near term, I'm grateful that I'm able to do more work on the technological fronteers of our society.  If things do work out, I think I'll be able to self-fund some charitable giving aspirations that I have."
+
 ---
 ## The Problem 
 I joined [ResponsiveOrg](https://www.responsive.org/manifesto) in 2015.  The group itself is an outreach of the work I was doing for Yammer.  It articulated a postive view of the future of work:

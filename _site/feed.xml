@@ -1,17 +1,344 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-01T23:41:53-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">avisuj</title><subtitle>Avi Sujeeth's personal blog. This blog captures my adventures  trying to guide my family through the 21st century. It's my hope  that it'll help me lead an intentional life and one day provide some  inspiration for my children's adventures.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2022/02/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-02-01T19:15:59-06:00</published><updated>2022-02-01T19:15:59-06:00</updated><id>http://localhost:4000/jekyll/update/2022/02/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/02/01/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-12T20:37:43-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">avisuj</title><subtitle>Avi Sujeeth's personal blog. This blog captures my adventures  trying to guide my family through the 21st century. It's my hope  that it'll help me lead an intentional life and one day provide some  inspiration for my children's adventures.</subtitle><entry><title type="html">Diversification, Monitoring, and Real Estate. Oh My!</title><link href="http://localhost:4000/2022/02/11/Diversification-Monitoring-and-Real-Estate-Oh-My.html" rel="alternate" type="text/html" title="Diversification, Monitoring, and Real Estate. Oh My!" /><published>2022-02-11T19:15:59-06:00</published><updated>2022-02-11T19:15:59-06:00</updated><id>http://localhost:4000/2022/02/11/Diversification-Monitoring-and-Real-Estate-Oh-My</id><content type="html" xml:base="http://localhost:4000/2022/02/11/Diversification-Monitoring-and-Real-Estate-Oh-My.html">&lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;I joined &lt;a href=&quot;https://www.responsive.org/manifesto&quot;&gt;ResponsiveOrg&lt;/a&gt; in 2015.  The group itself is an outreach of the work I was doing for Yammer.  It articulated a postive view of the future of work:&lt;/p&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Responsive Organizations are designed to thrive in less predictable environments by balancing the following tensions:&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+  &lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th style=&quot;text-align: center&quot;&gt;More Predictable &amp;lt;-&amp;gt; Less Predictable&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td style=&quot;text-align: center&quot;&gt;Profit &amp;lt;-&amp;gt; Purpose&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td style=&quot;text-align: center&quot;&gt;Hierarchies &amp;lt;-&amp;gt; Networks&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td style=&quot;text-align: center&quot;&gt;Controlling &amp;lt;-&amp;gt; Empowering&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td style=&quot;text-align: center&quot;&gt;Planning &amp;lt;-&amp;gt; Experimentation&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td style=&quot;text-align: center&quot;&gt;Privacy  &amp;lt;-&amp;gt; Transparency&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;The coalition shared examples of how organizations were trying to become more responsive through technology, engagement, and organization.  The reason organizations needed to change was tied back to do some work John Hagel and John Brown had done in 2010 called the &lt;a href=&quot;https://edgeperspectives.com/bigshift.html&quot;&gt;Shift Index&lt;/a&gt;.  They noted that since 1965, return on assets&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; had been steadily declining.  In contrast, over the same period employee productivity has been steadily increasing.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;While we are working harder, we are working on things that don’t matter.  More particularly, we are working on things that give us smaller incramental improvements rather than disruptive things that lead to step change outcomes.  There are many possibilities of why this is the case:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The more assets you have the harder it is to generate value.  When I graduated from college, our family had no assets.  The salary that I made was many multiples of the assets at our disposal.  As we started to build a nest egg, it became harder to sustain that growth because while we have more assets to put to work, I didn’t have more time to manage them.  Eventually, time becomes our most limited asset.&lt;/li&gt;
+  &lt;li&gt;Being human we have strong loss aversion which drives us to pay attention to the wrong things.  Rather than focusing on our most limited asset, we spend our time trying to drive a one or two percentage point increases on the stock market trying to eak out incramental improvements by being more productive.&lt;/li&gt;
+  &lt;li&gt;What we measure is what we get done.  It’s easy to observe if we’re doing as well as the market, it’s much harder to observe if we’re working on the right things to lead to a Good Life.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;From 2015, I started tracking my return on assets annually.  I wanted to understand if I was working on the right things financially.  From 2016 to 2020, I took hands on approach to managing my 401K while seeking an investment advisor to help me manage my money market accounts and IRA’s.  Over that period of time my 401K increased by 260% while the market grew by 168%.  The more assets you have the harder it is to generate value.  Masked in those returns is a significant portal of growth came from income.  For the last several years, I’ve maxed out my 401K investments and IRA contributions at $30K/year.  Since I’m now at the cap, reality has taken hold and my ROA forecasts are steadily declining.  I have to do something different.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;h2 id=&quot;smart-weighting&quot;&gt;Smart Weighting&lt;/h2&gt;
+&lt;p&gt;In 2020, I was approached by &lt;a href=&quot;https://pcap.link/avinashsujee&quot;&gt;Personal Capital&lt;/a&gt;.  The investment philosophy that Personal Capital uses is &lt;a href=&quot;https://www.personalcapital.com/wealth-management/smart-weighting&quot;&gt;Smart Weighting&lt;/a&gt;.  The basic premise is to identify invest equally in sectors that have unique characteristics and minimal correlation and then rebalance regularly.  As a result, a hot sector doesn’t become overweight because you sell more.  Likewise, a cold sector doesn’t become underweight because you buy more.  As a consequence of this approach, buying low and selling high is built into the system.&lt;/p&gt;
+
+&lt;p&gt;Personal Capital will argue that this approach is better than buying low-cost ETF’s like ^SPY.  In order to audit that claim, I’ve tracked my annual returns on my investment accounts since 2020.  Over that period, my equity investment increased by 23% while the market increased by 21%.  In the prior period, my equity investments increased by 217% while the market increased by 33%.  I’ve netted that they are doing about the same of the market.  By leveraging them, I’ve been able to free up time which I’m primarily using to manage higher growth investments and passive income streams.  Ultimately, The only way I’m going to get close to returning to 217% growth over a two year period is by increasing the income I’m bringing in.&lt;/p&gt;
+
+&lt;p&gt;Learning from Personal Capital - I’ve decided to view my nest egg as four major investment classes: retirement, equity investment, crypto, and real estate.  I’ve decided to make an active effort to try to balance my equity, real estate, and crypto investments.  The time I’m not using to manage my stocks, I’m now using to investigate new startups and technology trends.  If my forecast holds, I will have grown my passive income from $700 to $51,000 in five years.  My ROA will conitnue to be over 15% even while my assets double.&lt;/p&gt;
+
+&lt;h2 id=&quot;real-estate-exposure&quot;&gt;Real Estate Exposure&lt;/h2&gt;
+&lt;p&gt;While my passion for Crypto has been self-evident; I’m going to expound on my journey within real estate.  Over the last two years, real estate has been hot.  My home has appreciated by 200%.  Last year, I signed up for &lt;a href=&quot;https://statusmoney.com/?ref=KomJNO&quot;&gt;Status Financial&lt;/a&gt; to try to understand how I was spending my income in comparison to my peers.  It quickly stood out to me, that most of my peers had larger homes.  We’re happy with our house.  It’s a condo so we don’t spend much if any time on outdoor maintenance.  It’s in a great school district.  We don’t want to move.  Further, because our house is smaller we spend less on it.  We’ve been able to use those savings to fund a month long vacation annually as well as membership in a boat club which we use most weekends.  It works for us.&lt;/p&gt;
+
+&lt;p&gt;I believe that real estate is tried and proven way to build wealth.  In order to increase my real estate exposure without buying a bigger house, I started looking at different real estate hedge funds.  I ended up choosing &lt;a href=&quot;https://fnrpusa.com/&quot;&gt;First National Realty Partners&lt;/a&gt;.  I picked them because:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;They primarily invested in Grocery Stores.  I don’t think Grocery Stores will be heavily disrupted by technology as proximity matters for freshness.&lt;/li&gt;
+  &lt;li&gt;They let you specifically invest in a particular property; you could learn about the neighborhood they were investing in.&lt;/li&gt;
+  &lt;li&gt;They are full service - their value chain includes finding, repairing, renting, and selling property.  They have expertise in the area as opposed to just being a financial play.&lt;/li&gt;
+  &lt;li&gt;Their investments have some tax advantage as the repair costs are tax deductible and passed to investors.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tldr&quot;&gt;TLDR;&lt;/h2&gt;
+&lt;p&gt;I think I’ll be able to hit my financial growth goals by keeping a smart weighting on equity, crypto, and real estate investments.  Ultimately, I think the proof will be in the pudding.  In the near term, I’m grateful that I’m able to do more work on the technological fronteers of our society.  If things do work out, I think I’ll be able to self-fund some charitable giving aspirations that I have.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Return on assets is calculated as: &lt;img src=&quot;https://render.githubusercontent.com/render/math?math=ROA = \frac{Income}{Total Assets}&quot; /&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="finances" /><summary type="html">I think I'll be able to hit my financial growth goals by keeping a smart weighting on equity, crypto, and real estate investments. Ultimately, I think the proof will be in the pudding. In the near term, I'm grateful that I'm able to do more work on the technological fronteers of our society. If things do work out, I think I'll be able to self-fund some charitable giving aspirations that I have.</summary></entry><entry><title type="html">Getting Started with Crypto: Crawl, Walk, Run</title><link href="http://localhost:4000/2022/02/08/Getting-Started-With-Crypto.html" rel="alternate" type="text/html" title="Getting Started with Crypto: Crawl, Walk, Run" /><published>2022-02-08T19:15:59-06:00</published><updated>2022-02-08T19:15:59-06:00</updated><id>http://localhost:4000/2022/02/08/Getting-Started-With-Crypto</id><content type="html" xml:base="http://localhost:4000/2022/02/08/Getting-Started-With-Crypto.html">&lt;p&gt;As a follow-up to my last post on Crypto, I thought I’d consolidate some of my learnings to a crawl walk run guide in Crypto.&lt;/p&gt;
+
+&lt;h2 id=&quot;crawl&quot;&gt;Crawl&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Buy some $USDC on &lt;a href=&quot;https://www.coinbase.com/&quot;&gt;Coinbase&lt;/a&gt; or &lt;a href=&quot;https://www.gemini.com&quot;&gt;Gemini&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Buy and setup a &lt;a href=&quot;https://syncrob.it/&quot;&gt;HNT Miner&lt;/a&gt; or a &lt;a href=&quot;https://matchx.io/products/m2-pro-lpwan-crypto-miner?variant=40188735619267&quot;&gt;MXC Miner&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Join the &lt;a href=&quot;https://discord.gg/helium&quot;&gt;Helium Discord&lt;/a&gt; or &lt;a href=&quot;https://mxc.news/mxcdiscord&quot;&gt;MXC Discord&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sign up for &lt;a href=&quot;https://www.cointracker.io&quot;&gt;CoinTracker&lt;/a&gt; for Taxes
+    &lt;ul&gt;
+      &lt;li&gt;Configure the Coinbase or Gemini exchange&lt;/li&gt;
+      &lt;li&gt;Configure an “Import from CSV” wallet for your HNT or MXC Miner.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;walk&quot;&gt;Walk&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Purchase a &lt;a href=&quot;https://trezor.io&quot;&gt;Trezor&lt;/a&gt; or &lt;a href=&quot;https://www.ledger.com/&quot;&gt;Ledger&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Install the &lt;a href=&quot;https://metamask.io&quot;&gt;Metamask Browser Extension&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Configure Metamask to work with your hardware wallet&lt;/li&gt;
+      &lt;li&gt;Configure Metamask to work with the Avax Network (&lt;a href=&quot;https://support.avax.network/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche&quot;&gt;How To&lt;/a&gt;)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sign up for &lt;a href=&quot;https://www.gate.io&quot;&gt;Gate.io&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Transfer your $USDC from Coinbase or Gemini to Gate.io&lt;/li&gt;
+      &lt;li&gt;Sell your $USDC and buy $AVAX&lt;/li&gt;
+      &lt;li&gt;Transfer your $AVAX to your metamask/hardware wallet&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Connect your metamask/hardware wallet to &lt;a href=&quot;https://traderjoexyz.com/home#/farm&quot;&gt;Traderjoe.xyz&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Buy and stake $JOE&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Create a &lt;a href=&quot;https://www.coingecko.com/&quot;&gt;Coingecko&lt;/a&gt; account
+    &lt;ul&gt;
+      &lt;li&gt;Redeem Coingecko rewards for &lt;a href=&quot;https://www.coingecko.com/account/rewards/how-to-defi-bundle?locale=en&quot;&gt;How to Defi&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Configure Cointracker with your Gate.io exchange and AVAX wallet&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;run&quot;&gt;Run&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sign up for &lt;a href=&quot;https://tldr.tech/crypto&quot;&gt;TLDR Crypto&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Explore Yield Farming opportunities at &lt;a href=&quot;https://beefy.finance/&quot;&gt;Beefy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Buy and stake a snail at &lt;a href=&quot;https://slimeshadies.com/&quot;&gt;Slime Shadies&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Join the Slime Shadies Discord&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Configure Metamask to work with another chain like Fantom&lt;/li&gt;
+  &lt;li&gt;Do your own research
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.dexscreener.com&quot;&gt;Dexscreener&lt;/a&gt; - Track prices real-time&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.coincodex.com&quot;&gt;Coincodex&lt;/a&gt; - Technical Anlysis and Price Prediction of tokens&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://dappradar.com/blog/&quot;&gt;DappRadar&lt;/a&gt; - Industry Research&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://dappradar.com/blog/&quot;&gt;DeBank&lt;/a&gt; - Track your portfolio and see other wallets&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Get your own &lt;a href=&quot;https://ens.domains/&quot;&gt;Etherium Name Service&lt;/a&gt; Domain Name&lt;/li&gt;
+  &lt;li&gt;Participate in &lt;a href=&quot;https://snapshot.org/&quot;&gt;Snapshot&lt;/a&gt; vote&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;warning&quot;&gt;Warning&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;There are Fake Defi Apps in every App Store (iOS, PlayStore, Metamask store, etc.).  &lt;strong&gt;&lt;em&gt;Unless you are restoring your wallet, never provide your &lt;a href=&quot;https://community.metamask.io/t/what-is-a-secret-recovery-phrase-and-how-to-keep-your-crypto-wallet-secure/&quot;&gt;seed phrase&lt;/a&gt; to anyone or anything.&lt;/em&gt;&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;If you have given out your seed phrase, move your funds immediately.  A scammer will restore your wallet and drain any available funds.  $3.2 billion was stolen in 2021.&lt;/li&gt;
+      &lt;li&gt;If your funds have been stolen, do not pay a service that claims they will help you recover them.  They will also steal your money.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;When transfering tokens from Gate.io to Coinbase or Gemini, make sure to use the ETH/ERC20 chain.
+    &lt;ul&gt;
+      &lt;li&gt;Coinbase and Gemini only support the Ethereum block chain currently.&lt;/li&gt;
+      &lt;li&gt;The naming convention for EVM compatable chains are the same.  This includes Etherum, BSC, MATIC, TRX, AVAX, FTM, etc.&lt;/li&gt;
+      &lt;li&gt;Gate.io will allow you to withdraw coin in a variety of different chains.&lt;/li&gt;
+      &lt;li&gt;If you transfer coin to your Coinbase or Gemini wallet using a chain other than Ethereum, your funds will be lost.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Crypto is a high risk investment; use a &lt;a href=&quot;https://afterschoolfinance.com/portfolio-rebalancing-strategies&quot;&gt;portfolio rebalancing strategy&lt;/a&gt; to manage your investment.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.wsj.com/articles/crypto-yield-farmers-chase-high-returns-but-risk-losing-it-all-11626514200&quot;&gt;Yield Chasing&lt;/a&gt; and &lt;a href=&quot;https://monetka.blog/articles/crypto-fud-fomo-holding/&quot;&gt;FOMO Investing&lt;/a&gt; are real and will make you lose your investment.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="finances" /><category term="crypto" /><summary type="html">A step by step instructional guide on how to get started with crypto investing.</summary></entry><entry><title type="html">My Crypto Adventure: Into The Wonderland</title><link href="http://localhost:4000/2022/02/05/My-Crypto-Adventure-Into-The-Wonderland.html" rel="alternate" type="text/html" title="My Crypto Adventure: Into The Wonderland" /><published>2022-02-05T19:15:59-06:00</published><updated>2022-02-05T19:15:59-06:00</updated><id>http://localhost:4000/2022/02/05/My-Crypto-Adventure-Into-The-Wonderland</id><content type="html" xml:base="http://localhost:4000/2022/02/05/My-Crypto-Adventure-Into-The-Wonderland.html">&lt;p&gt;I bought my helium hotspot of June of 2019.  Branded as the people’s network, Helium promised to allow people to mine crypto currency via a proof coverage system.  By keeping your miner online, you were rewarded with roughly $3/day in the crypto currency HNT.  In addition, Helium used a small portion of the bandwidth from you home internet to power a LoraWAN network that provided connectivity for IoT devices.  To me this seemed like a great trade; I pay for more bandwidth than I need and by participating in the Helium Network I’m providing connectivity for the IoT revolution without requiring the construction of a new tower.  In 2021 the crypto market experienced a sustained boom.  In September 2021, I was able to sell 2935 HNT for $70,000 USD.&lt;/p&gt;
+
+&lt;p&gt;I opened a Coinbase account in January 2014 after I was told about bitcoin from a coworker.  I didn’t undersand it, but it had some value and I was curious.  And so I did what I do when I’m curious, I got my hands dirty.  I invested $100/month in bitcoin up until January 2015 collecting nearly 3BTC.  In January, I discovered a website that would let you lend BTC.  I was highly interest in understanding more about microloans so I participated as a lender providing unsecured loans until April 2016.  By the time I was done with the lending expirement I was left with 1.5BTC.  Since I don’t like to lose money; I lost interest.&lt;/p&gt;
+
+&lt;p&gt;In November 2017, the price of bitcoin skyrocketed turning my $1400 investment into $16,000.  Once again interested, I turned to mining.  I ended up buying 10 litecoin miners which I put into my garage.  I quickly learned about the challenges of mining: proof of work miners are loud, hot, and consume lots of energy.  That summer I had to install sound-proofing in my garage to try to minimize the hum of fans that I used to keep the miners cool.  The sound proofing made my garage hotter, which eventually resulted in some of my equipment getting damaged.  In March 2018, when my mining expirement ended, I had invested roughly $12,000 of my earnings in mining equipment which I ended up selling for parts worth roughly $2,000.  In addition, I had mined $3,500 in litecoin.&lt;/p&gt;
+
+&lt;p&gt;From 2014 - 2017, I had learned:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Unsecured lending with highly volatile assets is extremely risky.&lt;/li&gt;
+  &lt;li&gt;Besides being inconvenient, proof of work mining really burned through elecricity.&lt;/li&gt;
+  &lt;li&gt;Through technology, you could leverage crypto currency to participate in financial markets in new ways.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When the helium miner came out, I jumped back in because I saw that mining was evolving.  I was happy to trade excess bandwidth for the opportunity to make a little coin.  After I sold in September 2021, I also began to research different ways to reinvest into the market.  Just as mining had evolved, I discovered decentralized finance had evolved to now provide investment opportunities as a trade facilitator, a startup investor, a collateralized lender and much more.  In 2021, &lt;a href=&quot;https://dappradar.com/blog/category/reports&quot;&gt;Dappradar&lt;/a&gt; tracked 116,000 tokens across 42 block chains - each representing a unique value proposition.  &lt;strong&gt;I believe in crypto currency because I think it unlocks new economic opportunities that would otherwise be outside my reach.&lt;/strong&gt;  In fact, I think the easiest way to understand the dizzying modern landscape of crypto is to understand what those opportunities are.  For example, my current portfolio looks like:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Decentralized Finance Opportunity&lt;/th&gt;
+      &lt;th&gt;Centralized Finance Parallel&lt;/th&gt;
+      &lt;th&gt;My Current Allocation&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mining - Proof of Resource&lt;/td&gt;
+      &lt;td&gt;Sell a Product/Commodity&lt;/td&gt;
+      &lt;td&gt;10%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Infrastructure&lt;/td&gt;
+      &lt;td&gt;Own the Federal Reserve&lt;/td&gt;
+      &lt;td&gt;65%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Automated Market Maker&lt;/td&gt;
+      &lt;td&gt;Own the New York Stock Exchange&lt;/td&gt;
+      &lt;td&gt;5%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;OHM Forks / Nodes&lt;/td&gt;
+      &lt;td&gt;Own an Investment Fund&lt;/td&gt;
+      &lt;td&gt;10%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;proof-of-resource-mining&quot;&gt;Proof of Resource Mining&lt;/h2&gt;
+&lt;p&gt;As crypto has evolved from Proof of Work; any computing resource besides memory can now be traded for coin:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Category&lt;/th&gt;
+      &lt;th&gt;Examples&lt;/th&gt;
+      &lt;th&gt;How It Works&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;File Storage&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/filecoin&quot;&gt;Filecoin&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Run Software on a computer&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Network&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/helium&quot;&gt;Helium&lt;/a&gt; and &lt;a href=&quot;https://www.coingecko.com/en/coins/mxc&quot;&gt;MXC&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Connect an appliance to your home network&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Compute&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.coingecko.com/en/coins/bitcoin&quot;&gt;BTC&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Run software on a computer&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Because I’m intensely lazy - I really like the Network model.  Currently, I have a Helium and an MXC appliance at my home generating roughly $20/day in coin.  In addition, I’ve invested in MXC options to leverage mined MXC Coin to mint a sister coin &lt;a href=&quot;https://www.coingecko.com/en/coins/datahighway&quot;&gt;DHX&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I view mining as different than the other forms of investment because the real world connection tends to lower risk.  Since file storage, network, and compute have utility, the coins associated with them transfer real value in an exchange.&lt;/p&gt;
+
+&lt;h2 id=&quot;infrastructure&quot;&gt;Infrastructure&lt;/h2&gt;
+&lt;p&gt;The primary way to gain on Infrastructure coins is from coin appreciation and gain from staking (similar to interest).&lt;/p&gt;
+
+&lt;p&gt;The majority of the tokens that are traded in crypto represent smart contracts on specific blockchains.  Blockchains are the core infrastructure of crypto currency.  There are two types of block chains.  &lt;a href=&quot;https://www.binance.com/en/blog/fiat/layer-1-blockchain-tokens-everything-you-need-to-know-421499824684903155&quot;&gt;Layer 1&lt;/a&gt; chains provide a mechanism for: transaction security, transaction consensus, and transaction reporting.  &lt;a href=&quot;https://learn.bybit.com/blockchain/blockchain-layer-1-vs-layer-2&quot;&gt;Layer 2&lt;/a&gt; chains build on Layer 1 chains in an effort to increase scale and reduce cost.&lt;/p&gt;
+
+&lt;p&gt;Each individual blockchain has a unique coin that’s used to facilitate financial transactions.  For example, if you trade on the Ethereum network every trade will require a little bit of Ethereum to process.  The more apps on Ethereum, the more trades happen.  As trade volume increases, people need more Ethereum for processing.  As people need more Ethereum, Ethereum becomes more expensive.&lt;/p&gt;
+
+&lt;p&gt;The cost of transactions has led to the explosion of blockchains as different organizations strive to find the most efficient, secure, and reliable way to process transactions.  I currently actively particpate in five networks:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ethereum (L1) - $20.00/transaction&lt;/li&gt;
+  &lt;li&gt;Avalanche (L1) - $0.50/transaction&lt;/li&gt;
+  &lt;li&gt;Fantom (L1) - $0.50/transaction&lt;/li&gt;
+  &lt;li&gt;Godwoken (L2) - $0.00/transaction&lt;/li&gt;
+  &lt;li&gt;DHX (L2) - pending launch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think this space is interesting because there are definite economies of scale that will eventually lead to consolidation.  The consolidation pressure is somewhat mitigated through efforts around compatibility; Ethereum, Avalanche, Fantom, and Godwoken are all compatible with &lt;a href=&quot;https://metamask.com&quot;&gt;https://metamask.com&lt;/a&gt;.  I think that means there’s enough room for more than one block chain but I think it’s likely that application developers will consolidate to handful; much like most client applications are written for iOS, Android, or Windows.&lt;/p&gt;
+
+&lt;h2 id=&quot;automated-market-maker&quot;&gt;Automated Market Maker&lt;/h2&gt;
+&lt;p&gt;Gains from &lt;a href=&quot;https://www.coingecko.com/en/categories/automated-market-maker-amm&quot;&gt;Automated Market Maker&lt;/a&gt; tokens come from transaction fees and coin appreciation.&lt;/p&gt;
+
+&lt;p&gt;Automatated Market Makers are exchanges that individuals use to trade tokens.  In addition to the fee that’s charged by block chain, the exchange also charges a fee.  People who provide liquidity to the exchange receive a portion of that fee typically in the exchanges reward token.&lt;/p&gt;
+
+&lt;p&gt;Providing liquidity can be tricky; there are some tokens that will pay exchanges extra boosting rewards.  These boosts are often short term and are often provided by tokens that are depreciating.  Since you have to hold a specific token in order to provide liquidity, it’s very easy to lose money if the token depreciates quickly.&lt;/p&gt;
+
+&lt;p&gt;As a general rule, decide what tokens you want to hold and then strive to increase yield by providing those tokens to exchanges.&lt;/p&gt;
+
+&lt;h2 id=&quot;ohm-forks--nodes&quot;&gt;OHM Forks / Nodes&lt;/h2&gt;
+&lt;p&gt;Gains from &lt;a href=&quot;https://www.coingecko.com/en/categories/ohm-fork&quot;&gt;OHM Forks&lt;/a&gt; and Nodes are made from the appreciation of the coin associated with the application.&lt;/p&gt;
+
+&lt;p&gt;OHM Forks, Nodes, and even some NFT’s now are owned-treasury protocols.  These applications have assets and a balance sheet like a typical company.  The earnings from assets are typically reinvested creating a virtuous of growing the treasury.  These applications grow treasury balances by encouraging more people to invest, by investing in other applications, or by providing liquidity for automated market makers.&lt;/p&gt;
+
+&lt;p&gt;Unlike stocks, many of the application’s lack material cash flow.  As a result most valuations are based on ratio of total assets.  In addition, just because an application has assets; that doesn’t mean those assets will be distributed to the application’s coin holders.  Faith that the treasury value can be realized is heavily tied into the market value of these applications.&lt;/p&gt;
+
+&lt;h2 id=&quot;tldr&quot;&gt;TLDR;&lt;/h2&gt;
+&lt;p&gt;The decentralization inherent within crypto currency allows more people to participate in all aspects of the financial value chain.  By making participation broader, crypto has the promise to unlock increased innovation from people who otherwise would have been frozen out of the market by a competitive moat in the centralized finance system.  I think that is going to create unique opportunities for investment for some time to come.&lt;/p&gt;</content><author><name></name></author><category term="finances" /><category term="crypto" /><summary type="html">The decentralization inherent within crypto currency allows more people to participate in all aspects of the financial value chain. By making participation broader, crypto has the promise to unlock increased innovation from people who otherwise would have been frozen out of the market by a competitive moat in the centralized finance system. I think that is going to create unique opportunities for investment for some time to come.</summary></entry><entry><title type="html">Looking Back at 2021: Year in Review</title><link href="http://localhost:4000/2022/02/02/Looking-Back-at-2021-Year-in-Review.html" rel="alternate" type="text/html" title="Looking Back at 2021: Year in Review" /><published>2022-02-02T19:15:59-06:00</published><updated>2022-02-02T19:15:59-06:00</updated><id>http://localhost:4000/2022/02/02/Looking-Back-at-2021-Year-in-Review</id><content type="html" xml:base="http://localhost:4000/2022/02/02/Looking-Back-at-2021-Year-in-Review.html">&lt;p&gt;As I start this blog and we start 2022 - I think it’s appropriate to do a look back.  I tend to track metrics focused around Financial Health and General Wellness.  A few years ago I came up with that strategy because I wasn’t satisfied with just keeping track of our family budget.  I wanted to know if I was doing well.  In addition, I didn’t like the idea of just focusing on money.  Having been corporate for almost fifteen years now, I’m not stranger to a balanced scorecard - so I’ve adopted it for my personal life.  Yes, I’m weird; but it works for me and helps me think about the progress I’m making to important goals like financial freedom, a healthy marriage, a spiritually centered life, and a healthy lifestyle.  My KPI’s are pretty straight forward:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Net Worth&lt;/li&gt;
+  &lt;li&gt;Return on Assets&lt;/li&gt;
+  &lt;li&gt;Investment Performance against Market&lt;/li&gt;
+  &lt;li&gt;Weight&lt;/li&gt;
+  &lt;li&gt;Muscle Mass&lt;/li&gt;
+  &lt;li&gt;Body Fat Percentage&lt;/li&gt;
+  &lt;li&gt;Waist Line&lt;/li&gt;
+  &lt;li&gt;Date Nights&lt;/li&gt;
+  &lt;li&gt;Books Read&lt;/li&gt;
+  &lt;li&gt;Church Attendance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;At a high level, 2021 was pretty good for me. In some ways, I’m still struggling to get recentered after the pandemic. Likewise, the last few months have been stressful as I’ve started a new role professionally. All that said, I think I’m incredibly blessed and feel well positioned to have some really great years ahead of me. Let’s double click on my financial health and wellness.&lt;/p&gt;
+
+&lt;h2 id=&quot;financial-health&quot;&gt;Financial Health&lt;/h2&gt;
+&lt;p&gt;Over the last three years, my net worth has doubled. While that’s basically the same rate as the market, I think that’s amazing. Broadly, it’s become apparent that I’m building five major nest eggs:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Category&lt;/th&gt;
+      &lt;th&gt;Percent of Assets&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Retirement&lt;/td&gt;
+      &lt;td&gt;53%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;College Savings&lt;/td&gt;
+      &lt;td&gt;9%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Equities&lt;/td&gt;
+      &lt;td&gt;15%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Real Estate&lt;/td&gt;
+      &lt;td&gt;3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crypto&lt;/td&gt;
+      &lt;td&gt;5%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Last year my income increased by thirty seven percent. That growth was primarily driven from windfall crypto investments and the increase in the Microsoft stock price.  Both of these one time sources of income have given me pause because &lt;strong&gt;this year my income will decrease by forty percent&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;That has brought forward a new priority for me: Generate Passive Income. To accomplish that, I’ve started to increase my investments in Real Estate and Crypto:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Real Estate: I’m invested in &lt;a href=&quot;https://www.fnrpusa.com&quot; title=&quot;A Commercial Real Estate Private Equity Firm&quot;&gt;First National Realty Partners&lt;/a&gt;. We live in a condo; as such our real estate exposure in our home is limited.  In order to increase our exposure to real estate, I started investing in FNRP. Historically they have returned 8% per year from properties they manage.&lt;/li&gt;
+  &lt;li&gt;Crypto: Three years ago, I spent $500 for a Helium Hotspot. The hotspot mines about a $10 per day in crypto while funneling a small portion of my bandwidth to enable the Helium IoT service. After basically ignoring the hotspot for three years, I woke up one day to find that I had a stock pile of nearly $70K in Crypto.  That got me started me on an adventure in decentralized finance.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Net, last year was incredible financially.  In order to continue outsized performance, I’m betting on Real Estate and Crypto.  In fact, within five years I’m expecting my investments in Equities, Real Estate, and Crypto to be balanced at 10% each.  I’ve learned from my financial advisor, &lt;a href=&quot;https://pcap.link/avinashsujee&quot; title=&quot;A Dedicated Team To Help Clients Reach Their Financial Goals&quot;&gt;Personal Capital&lt;/a&gt;, that having a balanced portfolio of different asset classes is a way of ensuring that I buy low and sell high.&lt;/p&gt;
+
+&lt;h2 id=&quot;wellness&quot;&gt;Wellness&lt;/h2&gt;
+&lt;p&gt;While I struggled last year with physical fitness, my other measures around reading, going to church, and going on dates with my wife all improved from the year before.&lt;/p&gt;
+
+&lt;p&gt;I went on a focused tear in the spring time – which is pretty consistent for me.  I like many other people struggle in the winter.  Currently, I’m incredibly thankful that the days are getting longer and warmer.&lt;/p&gt;
+
+&lt;p&gt;As I look at what I accomplished last year, I feel like with a little more focus I can do better at achieving balance.  I think the best way to get to that outcome is to forgive myself for the past and just start to show up.  The last time I really felt “on top of it” was prior to the pandemic – although I must say last year felt a lot better than 2020.&lt;/p&gt;
+
+&lt;h2 id=&quot;tldr&quot;&gt;TLDR&lt;/h2&gt;
+&lt;p&gt;In summary, I’m really pleased with the way last year turned out.  While there’s always some room for improvement, I think I’ll be doing quite well if 2022 resembles 2021.  In addition, I think I’m on the right path in my personal, professional, and financial life.&lt;/p&gt;</content><author><name></name></author><category term="finances" /><category term="wellness" /><category term="crypto" /><summary type="html">In summary, I'm really pleased with the way last year turned out. While there's always some room for improvement, I think I'll be doing quite well if 2022 resembles 2021. In addition, I think I'm on the right path in my personal, professional, and financial life.</summary></entry></feed>
