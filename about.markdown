@@ -3,13 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
-I think individuals are a wonderous mixture of their past experiences, their interests, and who they want to be. My twitter profile captures this for me: Microsoft Cloud for Health - Responsive Org - Crypto Degen - Catholic - IoT Fanatic - Cyclist.
+I think individuals are a wondrous mixture of their past experiences, their interests, and who they want to be. My twitter profile captures this for me: Microsoft Cloud for Health - Responsive Org - Crypto Degen - Catholic - IoT Fanatic - Cyclist.
 
 ## Microsoft Cloud for Health
 I was fortunate to get recruited out of college by Microsoft.  I've been blessed to learn from and work for clients with ambitions to make the world better.  Currently, I work help healthcare organizations drive better patient outcomes.  You can learn more about me professionally at <https://about.me/avisujeeth>.
     
 ## Responsive Org
-In my career, I had the opportunity to work for Yammer.  There I learned that technology can drive cultural change when it's combined with purpose.  For me, I found that purpose in the ResponsiveOrg manifesto.  Over the course of my career in Modern Work at Microsoft, I was priviledged to see organizations transform their culture in an effort to become: more empowering, more risk taking, more flexible, and more transparent.  Today, I see that journey continuing through Decentralized Autonomous Organizations.
+In my career, I had the opportunity to work for Yammer.  There I learned that technology can drive cultural change when it's combined with purpose.  For me, I found that purpose in the ResponsiveOrg manifesto.  Over the course of my career in Modern Work at Microsoft, I was privileged to see organizations transform their culture in an effort to become: more empowering, more risk taking, more flexible, and more transparent.  Today, I see that journey continuing through Decentralized Autonomous Organizations.
 
 ## Crypto Degen 
 When Microsoft recruited me in 2007, my salary increased by 500%.  That opportunity changed the direction of my life.  While living a modest lifestyle, we've been able to save significantly.  Now, we have four significant nest eggs: retirement accounts, real estate investments, equity investments, and crypto investments.  I'm passionate about crypto because in it I see an effort to democratize finance so that everyone can participate in any part of the financial value chain.  In addition to the real estate investments, crypto is a critical part of my strategy to grow passive income.

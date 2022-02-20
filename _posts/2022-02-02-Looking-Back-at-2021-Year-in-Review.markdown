@@ -17,7 +17,7 @@ As I start this blog and we start 2022 - I think it's appropriate to do a look b
 - Books Read
 - Church Attendance
 
-At a high level, 2021 was pretty good for me. In some ways, I'm still struggling to get recentered after the pandemic. Likewise, the last few months have been stressful as I've started a new role professionally. All that said, I think I'm incredibly blessed and feel well positioned to have some really great years ahead of me. Let's double click on my financial health and wellness.
+At a high level, 2021 was pretty good for me. In some ways, I'm still struggling to get re-centered after the pandemic. Likewise, the last few months have been stressful as I've started a new role professionally. All that said, I think I'm incredibly blessed and feel well positioned to have some really great years ahead of me. Let's double click on my financial health and wellness.
 
 ## Financial Health
 Over the last three years, my net worth has doubled. While that's basically the same rate as the market, I think that's amazing. Broadly, it's become apparent that I'm building five major nest eggs:
