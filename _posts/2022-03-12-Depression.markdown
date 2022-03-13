@@ -22,7 +22,7 @@ As I've gotten older, it has become easier for me to tell when I'm driving my li
 - I will be overwhelmed by negative self-talk.  I will only see disaster and destruction around me.
 - I will isolate myself to hide my shame.
 
-Emotions to exist in a vacuum; in the past I've struggled with my disorder in moments of change in my environment.  For example, with this flare-up:
+Emotions do not exist in a vacuum; in the past I've struggled with my disorder in moments of change in my environment.  For example, with this flare-up:
 - Spring has been unseasonably late
 - Ukraine has been invaded by Russia
 - My family caught Covid-19
@@ -31,7 +31,7 @@ The trigger for this episode was the death of a fictional character.  Last week,
 
 I'm not sad because I'm displacing my life onto the heroine's.  While I read the book as part of an effort to escape the feeling of hopelessness associated with the Ukraine war, I recognize that the book is fiction; that it's an escape.  I'm sad because at this moment I'm predisposed to only see the loss.  For me, that is depression - reacting in an unreasonable way because I'm temporarily blinded from the beauty of life.  I know it's there but I can't see it and in my blindness I embrace things I do see; shame, grief, and sadness.  
 
-To be honest, the embrace feels good.  It feels good to feel.  I think it has given an emotional outlet for the stress of the things that have been happening in the world over the last month.  I'm grateful for it.  It's ok to not be ok.  It's equally important to continue.  Emily Black concludes her book Sanctuary with a story about a dog who had finally broken free from a stake he was chained to:
+To be honest, the embrace feels good.  It feels good to feel.  I think it has given me an emotional outlet for the stress of the things that have been happening in the world over the last month.  I'm grateful for it.  It's ok to not be ok.  It's equally important to continue.  Emily Black concludes her book Sanctuary with a story about a dog who had finally broken free from a stake he was chained to:
 
 > I could no longer see him but I imagined him: broken and trembling and terrified and damaged, he was still headed somewhere, resilient not because he 
 > left his difficult life behind for something better, but because, like all of us, he carried the source and the history of his pain with him. The 
