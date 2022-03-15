@@ -3,7 +3,7 @@ layout: post
 title:  "Depression"
 date:   2022-03-12 19:15:59 -0600
 categories: [wellness]
-excerpt: "Over the last two weeks, I've been dealing with a depression flare-up.  Having been aware of depression for half my life, I understand hwo I experience the condition.  As a next step in this relationship, I'm sharing to exert ownership over this disease I live with."
+excerpt: "Over the last two weeks, I've been dealing with a depression flare-up.  Having been aware of depression for half my life, I understand how I experience the condition.  As a next step in this relationship, I'm sharing to exert ownership over this disease I live with."
 ---
 As I awake this morning, my eyes are wet and my chest is heavy.  I feel like I've been crying for a week; which I have been.  Two weeks ago, my daughter caught Covid-19 from school.  We were expecting it - she went to a school band lock-in; with a concentration of middle-schoolers indoors it seemed inevitable.  I ended up showing symptoms on March 4th.  Fortunately, our entire experience of Covid-19 has been mild and we tested negative for it yesterday.  I didn't expect that I'd get caught up in a depression flare-up.
 
