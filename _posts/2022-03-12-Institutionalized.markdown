@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Institutionalized"
-date:   2022-03-12 19:15:59 -0600
+date:   2022-03-18 19:15:59 -0600
 categories: [wellness]
 excerpt: "When I was 17, I was committed to St. Louis University Hospital for 72 hours.  I think moments of struggle are also invitations to grow; and sometimes growth takes a long time.  As I'm writing this - I'm tempted to compare my struggle with those of others; there's a part of me that doesn't feel like I deserve to tell this story.  However as a good friend reminded me, comparison is the thief of happiness; struggle is struggle and grief is grief.  It's personal and isn't minimized because other grief or struggle exists.  I'm retelling my struggle to own it.  It is part of me but it doesn't define who I am."
 ---
