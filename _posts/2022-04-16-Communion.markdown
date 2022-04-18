@@ -67,7 +67,7 @@ Indeed, the Church's teachings identify that I'm in a sinful relationship with m
 > “every action which, whether in anticipation of the conjugal act, or in its accomplishment, or in the development of its natural consequences, proposes, whether as an end or as a means, to render procreation impossible” is intrinsically evil (Catechism of the Catholic Church).
 
 While I struggle with the teachings, I pray for discernment:
-- to understand if the Catechism provides around abortion and homosexuality is misplaced in the context of Christ's teachings 
+- to understand if the focus on abortion and homosexuality is misplaced in the context of Christ's teachings 
 - to understand if, like Judas, I'm trying to exert my will over God's will.  
 
 When you join a community based on values, you don't get to opt out of values that you struggle with.  I recognize that the decision making power on church teachings rest with the clergy.  At the same time, even a piece criticizing Cardinal Marx for calling for the Catechism's teaching on homosexuality to be changed recognized:
