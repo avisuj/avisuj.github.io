@@ -14,11 +14,27 @@ title: Categories
 
     <h3 class="category-head">{{ category_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
-    {% for post in site.categories[category_name] limit:7 %}
-    <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-    </article>
-    {% endfor %}
+    <ul class="post-list">
+      {%- for post in site.categories[category_name] limit:3 -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }} -- 
+          {%- for category in post.categories -%}
+          &nbsp; <a href="{{ category }}">{{ category }}</a>  
+          {%- endfor -%}
+        </span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        <h5</h5>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
   </div>
 {% endfor %}
 </div>

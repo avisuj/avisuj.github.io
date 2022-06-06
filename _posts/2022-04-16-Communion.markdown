@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Communion"
-date:   2022-04-11 19:15:59 -0600
+date:   2022-04-16 19:15:59 -0600
 categories: [wellness, catholic]
 excerpt: "In Communion, I talk about my faith journey.  Specifically I try to answer: +Why I chose Catholicism when my wife was Episcopal and my mother was Hindu? +If I'm leading my children to be Catholic, why have I not gotten baptized? +How do I resolve my liberal beliefs around abortion and homosexuality with the Catechism of the Church?"
 ---
