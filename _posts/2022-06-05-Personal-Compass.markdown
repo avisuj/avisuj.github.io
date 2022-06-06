@@ -8,9 +8,9 @@ excerpt: "I 'm using this post to consider how my beliefs are reflected and infl
 - Religion is a faith based expression of morality. 
 - Science is a way of exploring the truth."
 ---
-Recent announcements from the Catholic Church, like Archbishop Cordileone's decision not to admit Nancy Pelosi to Communion, has driven personal religious reflection.  I share many of Senator Pelosi's political leanings which leads me to wonder if there is room for me in the Catholic Church.  Ultimately, I've concluded that there is room because because as I present in [Communion](https://avisuj.github.io/wellness/catholic/Communion/) I think my personal beliefs are consistent with the Catechism.  This belief has been reinforced by conversations with the leader of my local parish.  
+Recent announcements from the Catholic Church, like Archbishop Cordileone's decision not to admit Nancy Pelosi to Communion, has driven personal religious reflection.  I share many of Senator Pelosi's political leanings which leads me to wonder if there is room for me in the Catholic Church.  As I've [previously shared](https://avisuj.github.io/wellness/catholic/), I've concluded that there is room because I think my personal beliefs are consistent with the Catechism.  This has been reinforced by conversations with the leader of my local parish.  
 
-I've taken the moment of reflection to also calibrate my personal compass.  I'm using this post to consider how my beliefs are reflected and influenced by politics, religion, and science.  Broadly I believe:
+I've taken this moment of reflection to also calibrate my personal compass.  I'm using this post to consider how my beliefs are reflected and influenced by politics, religion, and science.  Broadly I believe:
 - Politics is a social contract for the distribution of power.
 - Religion is a faith based expression of morality. 
 - Science is a way of exploring the truth.
