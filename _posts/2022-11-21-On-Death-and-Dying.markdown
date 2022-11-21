@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Death and Dying"
-date:   2022-11-21 16:57:59 -0500
+date:   2022-11-21 16:57:59 -0600
 categories: [wellness, catholic]
 excerpt: "We recently lost a friend.  More importantly our friends lost a father and a husband.  In this post, I explore how the living try to continue the journey with love and compassion."
 ---
