@@ -2,7 +2,7 @@
 layout: post
 title:  "On Death and Dying"
 date:   2022-11-22 19:15:59 -0600
-categories: [wellness, catholic, responsiveorg]
+categories: [wellness, catholic]
 excerpt: "We recently lost a friend.  More importantly our friends lost a father and a husband.  In this post, I explore how the living try to continue the journey with love and compassion."
 ---
 As I lit our gas fireplace last night, the flames seemed to dance.  But just as quickly as they came alive, they would snuff out as the fuel exhausted.  Dead.  I think this impermanence lends to the flames beauty.  Demands attention.
