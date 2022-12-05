@@ -41,7 +41,7 @@ As a follow-up to my last post on Crypto, I thought I'd consolidate some of my l
     - [Coincodex](https://www.coincodex.com) - Technical Analysis and Price Prediction of tokens
     - [DappRadar](https://dappradar.com/blog/) - Industry Research
     - [DeBank](https://dappradar.com/blog/) - Track your portfolio and see other wallets
-- Get your own [Etherium Name Service](https://ens.domains/) Domain Name
+- Get your own [Ethereum Name Service](https://ens.domains/) Domain Name
 - Participate in [Snapshot](https://snapshot.org/) vote
 
 ## Warning

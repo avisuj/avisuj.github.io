@@ -17,7 +17,7 @@ I feel this being liberal in Texas.  There are many times I'm at my kitchen tabl
 
 In order to tap into "Holy Spirit Listening", I think it's very important to understand what you personally believe and to be curious.  
 
-As I planned for a job change earlier this year, I did some [reflection](https://www.linkedin.com/pulse/my-core-values-integrity-heart-avi-sujeeth/?trackingId=Pd7VT73wG7D1OiJXKF46JA%3D%3D) on my core values: integrity and heart.  For me, it's important to be my full-self in every aspect of my life.  When I see an apparent contradiction in my life or find others who have different values, I try to respond with curiousity - to seek to understand - to Holy Spirit Listen.
+As I planned for a job change earlier this year, I did some [reflection](https://www.linkedin.com/pulse/my-core-values-integrity-heart-avi-sujeeth/?trackingId=Pd7VT73wG7D1OiJXKF46JA%3D%3D) on my core values: integrity and heart.  For me, it's important to be my full-self in every aspect of my life.  When I see an apparent contradiction in my life or find others who have different values, I try to respond with curiosity - to seek to understand - to Holy Spirit Listen.
 
 I've adopted framework's across my political, religious, and science beliefs that I try glue together through rationalization into a tapestry that reflects my values.  The frameworks help me understand what I believe and what those beliefs state about my values - they become my personal compass.  Broadly I believe:
 - Politics is a social contract for the distribution of power.
