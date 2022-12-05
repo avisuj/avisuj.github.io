@@ -3,25 +3,38 @@ layout: page
 title: About
 permalink: /about/
 ---
-I think individuals are a wondrous mixture of their past experiences, their interests, and who they want to be. My twitter profile captures this for me: Microsoft Cloud for Health - Responsive Org - Crypto Degen - Catholic - IoT Fanatic - Cyclist.
+Avi Sujeeth, faithful man
+Born in India, raised in US
+Married to Missy, two kids
+Abby, Isaac, his pride and joy
+Passionate about Faith and Tech
+Parenting, Investing, Legacy
+Heart and integrity, his core values
+Works at Microsoft, customer success
+Focusing on patient experience
+A life full of meaning and purpose.
+-[ChatGPT](https://chat.openai.com/chat)
 
-## Microsoft Cloud for Health
-I was fortunate to get recruited out of college by Microsoft.  I've been blessed to learn from and work for clients with ambitions to make the world better.  Currently, I work help healthcare organizations drive better patient outcomes.  You can learn more about me professionally at <https://about.me/avisujeeth>.
-    
-## Responsive Org
-In my career, I had the opportunity to work for Yammer.  There I learned that technology can drive cultural change when it's combined with purpose.  For me, I found that purpose in the ResponsiveOrg manifesto.  Over the course of my career in Modern Work at Microsoft, I was privileged to see organizations transform their culture in an effort to become: more empowering, more risk taking, more flexible, and more transparent.  Today, I see that journey continuing through Decentralized Autonomous Organizations.
+## [Heart](https://avisuj.github.io/categories/heart)
+One of my [core values](https://www.linkedin.com/pulse/my-core-values-integrity-heart-avi-sujeeth/), I live heart through connection and presence.  Throughout my life, I've struggled with depression.  I have come to embrace my melancholy - connecting through others in sadness and trial.  Attention.  I think one of the best gifts we can give each other is attention.  I want people to feel I cared.
 
-## Crypto Degen 
-When Microsoft recruited me in 2007, my salary increased by 500%.  That opportunity changed the direction of my life.  While living a modest lifestyle, we've been able to save significantly.  Now, we have four significant nest eggs: retirement accounts, real estate investments, equity investments, and crypto investments.  I'm passionate about crypto because in it I see an effort to democratize finance so that everyone can participate in any part of the financial value chain.  In addition to the real estate investments, crypto is a critical part of my strategy to grow passive income.
+## [Integrity](https://avisuj.github.io/categories/integrity)
+Another [core value](https://www.linkedin.com/pulse/my-core-values-integrity-heart-avi-sujeeth/).  I live integrity through candor.  I try to be honest with myself.  I seek feedback.  I reflect.  I learn.
 
-## Catholic
+## [Faith](https://avisuj.github.io/categories/faith)
 My family and my religion are a central part of my life.  Being an immigrant in the United States, there were many times I felt lonely; like I couldn't fit in where I lived or where I was born.  Through that period, the Catholic church gave me a sense of belonging and acceptance.  Participating in a community whose core tenants are to Love God and Love Your Neighbor has helped me pursue a "good life".  The gift of faith is something I hope to instill into my children.
 
-## IoT Fanatic
-In my house there are over 30+ IoT devices.  I'm a huge fan of home automation and use routines to do simple things like wake everyone up in the morning and to turn off all the lights when we leave the house.  Through this effort, we've been able to see a steady decrease in our electricity consumption and have clear picture of our carbon footprint.  In addition, Everyday I wear two IoT devices.  I'm believer that what gets measured gets done.  Tracking everything from my heart rate, to activity, to sleep has helped me be more pro-active in how I manage my health.
+## [Tech](https://avisuj.github.io/categories/tech)
+I used my first computer when I was eight.  I participated in discussion boards on prodigy.  I watched streaming videos through a custom setup with Napster.  Alexa controls automates my home through a 40+ connected devices.  I wear two health trackers.  I let a robot make financial investments on my behalf.  I've subscribed to a precision health service.  I believe.  The majority of my career has been with Microsoft.  I've had the opportunity to see how technology can create change moments for organizations.  I've worked on problems including employee experience and patient experience. 
 
-## Cyclist
-I am on a health journey.  Nine years ago, I was twenty pounds heavier and wore pants that were 10% larger.  I started working out every day and watching what I eat.  Today, I lift heavier free weights than I ever could in my life.  I've supplemented my weight training with light weight cycling.  I enjoy getting a 30 minute ride in on most days.
+## [Parenting](https://avisuj.github.io/categories/parenting)
+Leading my family has been one of my most rewarding jobs.  I enjoy watching my children become.  I try to leverage some of what I learn in my career to focus on the end game.  I can't wait to see how they change the world. 
+
+## [Investing](https://avisuj.github.io/categories/investing)
+When Microsoft recruited me in 2007, my salary increased by 500%.  That opportunity changed the direction of my life.  While living a modest lifestyle, we've been able to save significantly.  Now, we have four significant nest eggs: retirement accounts, real estate investments, equity investments, and crypto investments.  I'm hopeful that through compounding I'll be able to have a comfortable retirement and funding for projects that I want to sponsor.
+
+## [Legacy](https://avisuj.github.io/categories/legacy)
+I want to make the world a better place.  At Microsoft, I've had the opportunity to help organization leaders engage with their employees to drive improved engagement and affectiveness at accomplishing a variety of missions.  By helping employees connect with leaders, I've seen them make their organizations more responsive to changing environments and customer demands.  I've also had the opportunity to help health care organizations rethink how they engage with patients.  Through directed communication and intentional monitoring, I've seen organizations partner with patients to drive better health outcomes.
 
 ## What I write about
 In this blog, I'm sharing my life experiences.  As such, I write about things that I'm interested in.  Many of my interests are captured above.  I don't expect that this blog will get a large following.  While there maybe some posts I choose to share, for the most part I'm treating this like a public diary.  This is my story.  This is my search for meaning.

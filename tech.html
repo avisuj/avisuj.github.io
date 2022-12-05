@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /crypto/
-title: Crypto
+permalink: /categories/tech
+title: Tech
 skip: true
 ---
 
@@ -10,7 +10,7 @@ skip: true
     <h3 class="category-head">Posts</h3>
     <a name="Posts"></a>
     <ul class="post-list">
-      {%- for post in site.categories.crypto limit:10 -%}
+      {%- for post in site.categories.tech limit:10 -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }} -- 

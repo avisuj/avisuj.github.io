@@ -2,7 +2,7 @@
 layout: post
 title:  "Institutionalized"
 date:   2022-03-18 19:15:59 -0600
-categories: [wellness]
+categories: [heart, integrity]
 excerpt: "When I was 17, I was committed to St. Louis University Hospital for 72 hours.  I'm retelling my struggle to own it.  It is part of me but it doesn't define who I am.  I think moments of struggle are also invitations to grow; and sometimes growth takes a long time.  As I'm writing this - I'm tempted to compare my struggle with those of others; there's a part of me that doesn't feel like I deserve to tell this story.  However as a good friend reminded me, comparison is the thief of happiness; struggle is struggle and grief is grief.  It's personal and isn't minimized because other grief or struggle exists."
 ---
 My cheeks were flushed.  I was embarrassed; the people in my dorm were laughing at me.  They all were laughing at me.  As I caught a breadth, I realized that was ridiculous and then I got mad.  Shortly after I started college, I agreed with a psychiatrist to start on a selective Serotonin re-uptake inhibitor.  I thought it was supposed to keep me from feeling this way.

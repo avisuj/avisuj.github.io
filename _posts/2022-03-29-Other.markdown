@@ -2,7 +2,7 @@
 layout: post
 title:  "Other"
 date:   2022-03-29 19:15:59 -0600
-categories: [wellness]
+categories: [heart, integrity, legacy]
 excerpt: "I've struggled with belonging since I was young.  The desire to belong has driven me for so long that I think it's a major part of my identify.  In this blog post, I talk about that desire nad how it's affected who I am right now.  I suspect, if I'm honest with myself, the desire to belong is underneath the anger and self-deprecation that exacerbates my depression."
 ---
 The first time I felt like an other was when I was in second grade.  The kids in my public school were having a hard time pronouncing Avinash so they took to a nickname - Carwash.  Around the same time, I had a south asian friend who nicknamed me Avi.  I felt like I had a choice; I could become Carwash or I could become Avi.  After watching the Simpsons, I resolved to do whatever it took to be distant from the Kwik-E-Mart, Gas Stations, and Carwashes.  And so Avi was born.

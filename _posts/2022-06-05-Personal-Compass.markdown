@@ -2,7 +2,7 @@
 layout: post
 title:  "Personal Compass"
 date:   2022-06-04 19:15:59 -0600
-categories: [wellness, catholic, responsiveorg]
+categories: [faith, heart]
 excerpt: "It's easy to get lost in a meme.  It's easy to respond to snark with sarcasm.  It's much harder to learn from those that disagree with you.  It's harder to listen with curiosity.  In this blog post I talk about how I use mental models to deconstruct labels into implied values.  By staying curious, by leveraging the Holy Spirit to listen, I think my life is more rewarding because I can search for God in others and turn them into my teachers."
 ---
 This weekend I had the opportunity to attend Pentecost mass at St. Xavier, the college church at St. Louis University.  The reflection after the mass encouraged celebrants to engage in Holy Spirit listening.  Because we're often short of time, listening feels like a last art.  The leader of reflection related a story:  she attended a conference on listening and was reminded as our culture has embraced tribalism we've separated into two groups that reflect identity instead of just politics.  She recognized that she was afflicted as the speaker shared symbols associated with each group: 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Communion"
 date:   2022-04-16 19:15:59 -0600
-categories: [wellness, catholic]
+categories: [faith, parenting]
 excerpt: "In Communion, I talk about my faith journey.  Specifically I try to answer: +Why I chose Catholicism when my wife was Episcopal and my mother was Hindu? +If I'm leading my children to be Catholic, why have I not gotten baptized? +How do I resolve my liberal beliefs around abortion and homosexuality with the Catechism of the Church?"
 ---
 While I've talked about religion in the past, I haven't deeply gone into my spiritual journey.  I'm going to in this post because I think it will be useful for me to resolve some apparent contradictions that from the outside maybe confusing.  For example:

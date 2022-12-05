@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Started with Crypto: Crawl, Walk, Run"
 date:   2022-02-08 19:15:59 -0600
-categories: [finances, crypto]
+categories: [investing]
 excerpt: "A step by step instructional guide on how to get started with crypto investing." 
 ---
 As a follow-up to my last post on Crypto, I thought I'd consolidate some of my learnings to a crawl walk run guide in Crypto.
