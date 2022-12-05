@@ -2,7 +2,7 @@
 layout: post
 title:  "Investing in Catholicism"
 date:   2022-02-19 19:15:59 -0600
-categories: [faith]
+categories: [faith, parenting]
 excerpt: "As a born Hindu and practicing Catholic, my faith journey has been complex.  It's a core part of who I am.  Likewise, it's a core part of how I'm trying to lead my family.  As the pandemic becomes less dangerous, I'm looking forward to rekindling the relationship with the local faith community."
 ---
 Throughout my childhood I struggled with fitting in.  As an Indian growing up the United States, I've always felt too Indian to be American and too American to be Indian.  That problem was particularly acute when I was growing up because I didn't really understand who I was and what I found to be important.
