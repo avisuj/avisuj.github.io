@@ -3,16 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
-Avi Sujeeth, faithful man
-Born in India, raised in US
-Married to Missy, two kids
-Abby, Isaac, his pride and joy
-Passionate about Faith and Tech
-Parenting, Investing, Legacy
-Heart and integrity, his core values
-Works at Microsoft, customer success
-Focusing on patient experience
-A life full of meaning and purpose.
+>> Avi Sujeeth, faithful man
+>> Born in India, raised in US
+>> Married to Missy, two kids
+>> Abby, Isaac, his pride and joy
+>> Passionate about Faith and Tech
+>> Parenting, Investing, Legacy
+>> Heart and integrity, his core values
+>> Works at Microsoft, customer success
+>> Focusing on patient experience
+>> A life full of meaning and purpose.
 -[ChatGPT](https://chat.openai.com/chat)
 
 ## [Heart](https://avisuj.github.io/categories/heart)
