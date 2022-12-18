@@ -42,6 +42,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
+#adding another collection for timeline
+collections:
+  posts:
+    title: Posts
+    output: true
+  steps:
+    title: Steps
+    output: false
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
