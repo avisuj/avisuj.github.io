@@ -39,3 +39,72 @@ I want to make the world a better place.  At Microsoft, I've had the opportunity
 ## What I write about
 In this blog, I'm sharing my life experiences.  As such, I write about things that I'm interested in.  Many of my interests are captured above.  I don't expect that this blog will get a large following.  While there maybe some posts I choose to share, for the most part I'm treating this like a public diary.  This is my story.  This is my search for meaning.
 
+## Timeline
+A collection of important events in my life:
+<STYLE>
+.item {
+padding-top:100px;
+min-height:150px;
+position:relative
+}
+.item:before,.last-item:after {
+background:#fff;
+border:8px solid #000;
+border-radius:50%;
+width:40px;
+height:40px;
+display:inline-block;
+content:"";
+margin-left:1rem;
+position:relative;
+z-index:1;
+left:calc(2% - 36px)
+}
+.vertical-line {
+width:8px;
+background-color:#000;
+position:absolute;
+left:calc(2% - 5px);
+top:0;
+bottom:0
+}
+.item .card-panel {
+margin:0;
+margin:2rem 0 0 3rem
+}
+.item-date {
+margin-top:-60px;
+margin-left:4rem
+}
+.cv-title {
+margin-bottom:0;
+margin-left:calc(2% - 5px);
+line-height:190%
+}
+.cv-title span {
+padding:1rem
+}
+.last-item{
+padding-top:80px;
+height:70px;
+position:relative
+}
+</STYLE>
+
+<div class="container row">
+    {% assign steps = site.steps | sort: 'date' %}
+    {% for step in steps %}
+    <div class="item">
+        <i class="vertical-line"></i>
+        <h2 class="item-date">{{ step.date | date: '%m/%Y' }}{% if step.enddate %} - {{ step.enddate | date: '%m/%Y' }}{% endif %}</h2>
+        <div class="card-panel">
+            <h3 class="card-title">
+                {{ step.title }}
+            </h3>
+            <p>
+                {{ step.content }}
+            </p>
+        </div>
+    </div>
+    {% endfor %}
+    </div>
