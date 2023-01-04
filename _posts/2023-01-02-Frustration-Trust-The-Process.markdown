@@ -8,9 +8,9 @@ excerpt: "My post on the new year doesn't adequately capture the frustration I f
 My post on the new year doesn't adequately capture the frustration I feel around 2022.  I did the right things but indicators around my health are neutral at best.  Compared to 2021, I was 45% more active.  How is it that you can exercise more yet have many of the signals of your cardio vascular age (hrv, cholesterol, lipids) fall out of control?
 
 To me, it’s a signal of one of few possibilities:
-	• I'm working on the wrong things with regards to my health.  In effect, I'm trying to climb the wrong mountain.  As I'm reflecting on my progress, I'm frustrated because I'm not where I thought I'd be.
-	• I haven't given the process enough time to work.  Progress isn't linear and it's easy to get frustrated when results of effort aren't visible.
-	• I'm working on things poorly.  Bad practice leads to middling results.  Good practice leads to perfection.
+- I'm working on the wrong things with regards to my health.  In effect, I'm trying to climb the wrong mountain.  As I'm reflecting on my progress, I'm frustrated because I'm not where I thought I'd be.
+- I haven't given the process enough time to work.  Progress isn't linear and it's easy to get frustrated when results of effort aren't visible.
+- I'm working on things poorly.  Bad practice leads to middling results.  Good practice leads to perfection.
 
 # Working on the Wrong Things
 In Seven Habits of Highly Effective People, Steven Covey relates a story of two groups of producers who are working they're we through a jungle.  A leader is the one who climbs a tree, surveys the entire situation, and shouts "Wrong Jungle".  Managers respond by saying "But, we're making progress."  According to Covey, "Effectiveness - often even survival - does not depend solely on how much effort we expand, but on whether or not the effort we spend is in the right jungle."
