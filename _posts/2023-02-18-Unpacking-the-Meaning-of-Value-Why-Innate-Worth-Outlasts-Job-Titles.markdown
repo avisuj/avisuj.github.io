@@ -39,8 +39,8 @@ Because bestowed value leads to inequity, it can be easy to covet.  Simon Sinek 
 According to Power of Positivity, the regrets of people on their deathbed are:
 - Didn't spend enough time with their family.
 - Wasn't kind, patient, or loving enough.
-- Should've taken more risks
-- Didn't express their feelings to loved ones or themselves
-- Didn't forgive when their was time
+- Should've taken more risks.
+- Didn't express their feelings to loved ones or themselves.
+- Didn't forgive when their was time.
 
 As we face death, it's not bestowed value we treasure.  Instead we realize that we fail to appreciate our innate value and the innate value of those closest to us.  If there's a lesson here, I think it's to appreciate each person as God given.
