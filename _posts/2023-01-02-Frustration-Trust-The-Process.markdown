@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Frustrated with My Health; Trying to Trust The Process"
-date:   2022-12-20 00:00:00 -0600
+date:   2023-01-02 00:00:00 -0600
 categories: [integrity, heart]
 excerpt: "My post on the new year doesn't adequately capture the frustration I feel around 2022.  I did the right things but indicators around my health are neutral at best.  Compared to 2021, I was 45% more active.  How is it that you can exercise more yet have many of the signals of your cardio vascular age (hrv, cholesterol, lipids) fall out of control?"
 ---

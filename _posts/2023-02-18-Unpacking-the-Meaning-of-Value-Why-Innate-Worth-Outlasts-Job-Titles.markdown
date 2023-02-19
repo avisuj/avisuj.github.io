@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unpacking the Meaning of Value: Why Innate Worth Outlasts Job Titles"
-date:   2022-12-20 00:00:00 -0600
+date:   2023-02-18 00:00:00 -0600
 categories: [integrity, heart, legacy, parenting]
 excerpt: "This post explores the true sources of value in human life, distinguishing between innate value, which is rooted in our humanity and connections with others, and bestowed value, which is based on economic or social status. I argue that appreciating and valuing each person as God-given is key to recognizing and honoring our own innate worth and that of others."
 ---
