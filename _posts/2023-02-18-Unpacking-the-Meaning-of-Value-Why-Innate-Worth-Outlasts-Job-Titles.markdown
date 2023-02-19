@@ -2,7 +2,7 @@
 layout: post
 title:  "Unpacking the Meaning of Value: Why Innate Worth Outlasts Job Titles"
 date:   2022-12-20 00:00:00 -0600
-categories: [integrity, heart]
+categories: [integrity, heart, legacy, parenting]
 excerpt: "This post explores the true sources of value in human life, distinguishing between innate value, which is rooted in our humanity and connections with others, and bestowed value, which is based on economic or social status. I argue that appreciating and valuing each person as God-given is key to recognizing and honoring our own innate worth and that of others."
 ---
 It's layoff season.  While this round, I'm safe - I've been let go twice in my career so far.  The first time I laid off it was jarring for me because I defined my value by my job.  Clearly, I'm more than my job.  I'm also a son, husband, father, community member, volunteer, church goer, gym member, mentor, and friend.  I have many roles.  I've come to realize value doesn't come from a role.  I think value is endowed by our creator - as the declaration of independence says "all men are created equal, that they are endowed by their Creator with certain unalienable rights, that among these are Life, Liberty and the Pursuit of happiness."  Besides our innate value, I think value is also bestowed by others.  I've come to believe that bestowed value is transient while innate value is permanent and real.
