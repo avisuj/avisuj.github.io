@@ -19,12 +19,12 @@ Our core value is rooted in our humanity; in our connections, potential, and con
 
 We have connections with each other.  Everyone is a son, daughter, mother, or father.  Those connections can be established via blood or through deepened relationships.  Individuals are cherished and that demands respect.
 
-We have untold potential.  Today we stand on the shoulder's of those who came before us through an arc of history that has seen life expectancy rise, wealth grow, and peace expand.  Moreover, we have control over our destiny - through our choices and our efforts we can continue down the path we are one ro we can change.  Never underestimate a fellow human; instead show reverence and awe because one day a human will solve a problem that today is impossible.
+We have untold potential.  Today we stand on the shoulder's of those who came before us through an arc of history that has seen life expectancy rise, wealth grow, and peace expand.  Moreover, we have control over our destiny - through our choices and our efforts we can change the path we are on.  Never underestimate a fellow human; instead show reverence because one day a human will solve a problem that today is impossible.
 
-We are connected with each other through empathy.  Our emotions connect us.  "The sadness from which compassion springs is a pro-social emotion, an agent of connection and love; it's what the musician Nick Cave calls 'the universal unifying force" (Bittersweet).  When you see other person, try to see yourself.
+We are connected with each other through empathy.  Our emotions connect us.  "The sadness from which compassion springs is a pro-social emotion, an agent of connection and love" (Bittersweet).  When you see another person, try to see yourself.
 
 ## Bestowed Value
-The other sources of value result from our inter personal interactions.  We ascribe value to those who provide service.  In Leaders Eat Last, Simon Sinek relates that hierarchy was established to promote societal order.  Sinek continues that leaders value is rooted in his ability to serve the community.  
+The other sources of value result from our inter personal interactions.  We ascribe value to those who provide service.  In Leaders Eat Last, Simon Sinek relates that hierarchy was established to promote societal order.  Sinek continues that a leaders value is rooted in their ability to serve the community.  
 
 This premise is echoed through anecdote:
 - Every great company starts by solving an important problem. (Startup.com)
@@ -33,7 +33,7 @@ This premise is echoed through anecdote:
 
 We pay, honor, and respect those who provide service.  However, this value is ultimately fleeting.  Rich have become poor.  Politicians have become criminals.  Veterans have become homeless.  
 
-Because bestowed value leads to inequity, it can be easy to covet.  Simon Sinek points out that a false leader will struggle to hold on to their position once they've got it because the value of leadership comes from the people. "It is nice to be important, but it's more important to be nice." (Walter Winchell)
+Because bestowed value can lead to inequity, it can be easy to covet.  In warning, Simon Sinek points out that a false leader will struggle to hold on to their position once they've got it because the value of leadership comes from the people. "It is nice to be important, but it's more important to be nice." (Walter Winchell)
 
 # Lasting Value
 According to Power of Positivity, the regrets of people on their deathbed are:
@@ -43,4 +43,4 @@ According to Power of Positivity, the regrets of people on their deathbed are:
 - Didn't express their feelings to loved ones or themselves.
 - Didn't forgive when their was time.
 
-As we face death, it's not bestowed value we treasure.  Instead we realize that we fail to appreciate our innate value and the innate value of those closest to us.  If there's a lesson here, I think it's to appreciate each person as God given.
+As we face death, it's not bestowed value we treasure.  Instead we focus on our innate value and the innate value of those closest to us.  If there's a lesson here, I think it's to appreciate each person as God given.
