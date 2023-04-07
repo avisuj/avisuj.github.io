@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Living an Agile Life: Coping with Unknown Unknowns"
-date:   2023-02-18 00:00:00 -0600
+date:   2023-04-07 00:00:00 -0600
 categories: [integrity, parenting]
 excerpt: "This blog post explores the concept of unknown unknowns and how they can impact our lives. It discusses the agile methodology as a way of coping with uncertainties and achieving personal goals. By breaking down goals into smaller tasks, embracing change, collaborating, and reflecting, we can better adapt to unknowns and live our best lives."
 ---
