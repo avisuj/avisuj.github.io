@@ -32,6 +32,6 @@ I believe that agile is not only a way of developing software but also a way of 
 - I want to make difference in the world through my work
 - I want to start a scholarship to inspire others to live their best lives
 
-I don't have to tackle all the things at once, but I can set goals like how much I need to have saved to retire to Hawaii or start the scholarship fund.  And I can look for opportunities to start things earlier.  For example, I'm investigating what it would take to start a 501-3C and if the software grants Microsoft makes to charitable organizations would allow me to start awarding a $5K annual scholarship right now.
+I don't have to tackle all the things at once, but I can set goals like how much I need to have saved to retire to Hawaii or start the scholarship fund.  And I can look for opportunities to start things earlier.  For example, I'm investigating what it would take to start awarding a $5K annual scholarship right now.
 
 By living my life as close to the present as I can, I get to savor simple pleasures, focus on today's actions, and embrace opportunities as they appear.  Reflecting on how I've done monthly, I can ensure that I am connecting what I'm doing with my long term goals.  In addition, I try to periodically look up to determine if I'm still happy with where I think I'm going.  When the world flips on its head, I hope this approach will allow me to adapt to the changes.
