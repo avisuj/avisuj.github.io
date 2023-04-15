@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Dual Nature of Human Thinking: Integrating Intuition and Deliberation for Success"
-date:   2023-04-15 00:00:00 -0600
+date:   2023-04-14 00:00:00 -0600
 categories: [integrity, heart, parenting]
 excerpt: "The blog post discusses the concept of "Giving an A" from the book "The Art of Possibility" by Rosamund Stone Zander and Benjamin Zander, and how it relates to the dual modes of thinking in the brain. Embracing both fast, intuitive, and emotional thinking and slower, deliberative, and logical thinking is important for learning and growth."
 ---
