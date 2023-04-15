@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Exploring the Intersection of AI and Human Values: Opportunities, Challenges, and Ethics"
-date:   2023-04-08 00:00:00 -0600
-categories: [integrity, heart, technology]
-excerpt: "This blog post explores the intersection of artificial intelligence (AI) and human values, including the benefits and risks of AI, the impact of AI on human qualities and dignity, and the importance of ethical AI. It discusses the potential of AI to augment human capabilities, but also the need to ensure that AI is aligned with human interests and values and does not cause harm or injustice. Ultimately, it highlights the dynamic and evolving nature of human qualities and the role of technology in shaping them, and calls for a responsible and reflective approach to the design, development, and use of AI systems."
+title:  "The Dual Nature of Human Thinking: Integrating Intuition and Deliberation for Success"
+date:   2023-04-14 00:00:00 -0600
+categories: [integrity, heart, parenting]
+excerpt: "The blog post discusses the concept of 'Giving an A' from the book 'The Art of Possibility' by Rosamund Stone Zander and Benjamin Zander, and how it relates to the dual modes of thinking in the brain. Embracing both fast, intuitive, and emotional thinking and slower, deliberative, and logical thinking is important for learning and growth."
 ---
 I am currently reading the Art of Possibility by Rosamund Stone Zander, a counselor, and Benjamin Zander, a conductor and teacher.  They talk about two selves: the measuring self and the full self. The measuring self is concerned with how you compare to others and how you measure up to external standards. The full self is concerned with your own internal standards and values.  They provide 12 practices such as "It's all invented", "Giving an A", and "The Way Things Are" that can help you change your perspective in order to see new possibilities.
 
