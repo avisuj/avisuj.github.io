@@ -3,7 +3,7 @@ layout: post
 title:  "The Dual Nature of Human Thinking: Integrating Intuition and Deliberation for Success"
 date:   2023-04-14 00:00:00 -0600
 categories: [integrity, heart, parenting]
-excerpt: "The blog post discusses the concept of "Giving an A" from the book "The Art of Possibility" by Rosamund Stone Zander and Benjamin Zander, and how it relates to the dual modes of thinking in the brain. Embracing both fast, intuitive, and emotional thinking and slower, deliberative, and logical thinking is important for learning and growth."
+excerpt: "The blog post discusses the concept of 'Giving an A' from the book 'The Art of Possibility' by Rosamund Stone Zander and Benjamin Zander, and how it relates to the dual modes of thinking in the brain. Embracing both fast, intuitive, and emotional thinking and slower, deliberative, and logical thinking is important for learning and growth."
 ---
 I am currently reading the Art of Possibility by Rosamund Stone Zander, a counselor, and Benjamin Zander, a conductor and teacher.  They talk about two selves: the measuring self and the full self. The measuring self is concerned with how you compare to others and how you measure up to external standards. The full self is concerned with your own internal standards and values.  They provide 12 practices such as "It's all invented", "Giving an A", and "The Way Things Are" that can help you change your perspective in order to see new possibilities.
 
