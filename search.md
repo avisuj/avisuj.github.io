@@ -7,12 +7,11 @@ permalink: /search/
 .sbox {
     top: 20%;
     height: 100%;
-    width: 100%;
-    width: 62.4%;
+    width: 90%;
     box-sizing: border-box;
     min-height: 40px;
     max-height: 52px;
-    min-width: 580px;
+    min-width: 100px;
     max-width: 596px;
     white-space: nowrap;
     z-index: 2;
