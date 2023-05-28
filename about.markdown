@@ -92,7 +92,7 @@ position:relative
 </STYLE>
 
 <div class="container row">
-    {% assign steps = site.steps | sort: 'date' %}
+    {% assign steps = site.steps | sort: 'date' | reverse %}
     {% for step in steps %}
     <div class="item">
         <i class="vertical-line"></i>
