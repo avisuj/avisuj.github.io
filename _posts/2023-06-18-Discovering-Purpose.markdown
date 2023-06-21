@@ -7,7 +7,7 @@ excerpt: "In this blog post, I share the motivations behind the Sujeeth Foundati
 ---
 Starting things is hard.  Over the last month I know the time I've been putting into the Sujeeth Foundation has taken away from family.  I hope to share with you why I'm investing in this way. 
 
-The Sujeeth Foundation is an organization that tries to help students unlock the opportunity of education. Some years ago, we has the fortune to come into some unexpected money.  We were able to award a scholarship which encouraged a friend to get her masters.  Education changed our life - the idea that we can use to help others change theirs is empowering.
+The Sujeeth Foundation is an organization that tries to help students unlock the opportunity of education. Some years ago, we has the fortune to come into some unexpected money.  We were able to award a scholarship which encouraged a friend to get her masters.  Education changed our life - the idea that we can use education to help others change their lives is empowering.
 
 I've come to believe that economic life has three stages:
 - Early Career - This is the messy process of discovering your interests and identifying your Ikigai.  I navigated this through experimentation, education, growth mindset, and self reflection.
