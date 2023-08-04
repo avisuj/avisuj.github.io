@@ -7,7 +7,7 @@ excerpt: "In my blog post, I reflect on the pending layoff at Microsoft and stre
 ---
 While I was on vacation, my network started discussing a pending reorganization at Microsoft.  It quickly became clear that my role was likely to be impacted.  On July 10th, my skip manager asked me to join a team call with HR to officially deliver the news.  
 
-Bad things sometimes happen to good people.  I think a person's character is defined by how the react - how they get back up and learn from past experiences.  I wanted to illustrate to the kids: that a person's value is not defined by their job, that it's important to be present with people, and that resilience happens by executing plans with the end in mind. 
+Bad things sometimes happen to good people.  I think a person's character is defined by how they react - how they get back up and learn from past experiences.  I wanted to illustrate to the kids: that a person's value is not defined by their job, that it's important to be present with people, and that resilience happens by executing plans with the end in mind. 
 
 To begin, a person's value is not defined by their job.  While it's common knowledge, I think it can be harder to realize because salary and rewards are some of the most visible signs of value.   In fact, I think value comes from being human, economic value, leading others, and protecting others [Unpacking the Meaning of Value: Why Innate Worth Outlasts Job Titles](https://blog.avisuj.com/integrity/heart/legacy/parenting/Unpacking-the-Meaning-of-Value-Why-Innate-Worth-Outlasts-Job-Titles/).  My life has started to reflect this as I've changed my identity from a Microsoft employee to a Catholic, a Father, and a Technologist.  
 
