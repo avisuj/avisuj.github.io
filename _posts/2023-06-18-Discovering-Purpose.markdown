@@ -2,7 +2,7 @@
 layout: post
 title:  "Discovering Purpose: Starting the Sujeeth Foundation"
 date:   2023-06-18 00:00:00 -0600
-categories: [integrity, heart, parenting]
+categories: [integrity, legacy, heart, parenting]
 excerpt: "In this blog post, I share the motivations behind the Sujeeth Foundation, which aims to unlock the transformative power of education for students. Reflecting on personal experiences, I highlight the three stages of economic life, emphasizing the importance of self-discovery, resource building, and leaving a meaningful legacy. Guided by an ethical framework of good action, good intention, and good consequence, I embark on this journey to make a positive impact and learn how education can truly change lives."
 ---
 Starting things is hard.  Over the last month I know the time I've been putting into the Sujeeth Foundation has taken away from family.  I hope to share with you why I'm investing in this way. 
