@@ -23,9 +23,9 @@ In Dare to Lead, Brene Brown challenges people to define identity by core values
 Our values should be so crystallized in our minds, so infallible, so precise and clear and unassailable, that they don’t feel like a choice—they are simply a definition of who we are in our lives. In those hard moments, we know that we are going to pick what’s right, right now, over what is easy. Because that is integrity—choosing courage over comfort; it’s choosing what’s right over what’s fun, fast, or easy; and it’s practicing your values, not just professing them.
 
 My core values are [heart and integrity](https://www.linkedin.com/pulse/my-core-values-integrity-heart-avi-sujeeth/).  I've built a reinforcing sense of identity around.  It helps me be true to myself.  I am:
-	• A Catholic - Catholics are called to love God and love one another.  Catholics are encouraged to live with honesty and integrity in all aspects of their lives. 
-	• A father and husband - I love my family and strive to live the Good Life with them.
-	• A Technologist - I believe building technology can make the world better.
+- A Catholic - Catholics are called to love God and love one another.  Catholics are encouraged to live with honesty and integrity in all aspects of their lives. 
+- A father and husband - I love my family and strive to live the Good Life with them.
+- A Technologist - I believe building technology can make the world better.
 
 People often have agency over certain aspects of their identity, such as their personal beliefs, interests, and values. They can make choices about the ideologies they embrace, the hobbies they pursue, and the values they prioritize.   When making that choice, I think it's important to build a strong identity.  A strong identity and a weak identity refer to the level of clarity, confidence, and coherence an individual has in their sense of self and affiliations.  A strong identity guides individuals in making decisions that align with their values and aspirations.  People with a weak identity may compare themselves to others more often and feel envious of others.  
 
