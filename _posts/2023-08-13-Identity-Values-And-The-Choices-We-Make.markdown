@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Identity, Values, and the Choices We Make"
-date:   2023-08-04 00:00:00 -0600
+date:   2023-08-13 00:00:00 -0600
 categories: [integrity, heart, parenting]
 excerpt: "I explore the intriguing question of why people hold differing moral judgments. Drawing inspiration from Daniel Pink's observations, I delve into the diversity of moral values and the role of personal identity. Through the lens of the Moral Foundations theory and insights from Brene Brown, I examine how conscious cultivation of core values can strengthen identity, guide ethical decisions, and offer a resilient foundation in overcoming life's challenges."
 ---
