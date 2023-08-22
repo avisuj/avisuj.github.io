@@ -10,8 +10,6 @@ permalink: /about/
 > Passionate about Faith and Tech <br>
 > Parenting, Investing, Legacy <br>
 > Heart and integrity, his core values <br>
-> Works at Microsoft, customer success <br>
-> Focusing on patient experience <br>
 > A life full of meaning and purpose. <br>
 -[ChatGPT](https://chat.openai.com/chat)
 
