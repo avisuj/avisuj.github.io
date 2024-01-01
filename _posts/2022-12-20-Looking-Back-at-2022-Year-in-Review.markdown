@@ -2,7 +2,7 @@
 layout: post
 title:  "Looking Back at 2022: Year in Review"
 date:   2022-12-20 00:00:00 -0600
-categories: [integrity, investing, legacy, tech]
+categories: [integrity, investing, legacy, tech, yearinreivew]
 excerpt: "I wouldn't do 2022 differently, but there are definitely some changes I want to take into 2023.  Over the year, we made some great memories.  Financially, we were even with the market.  Given the market stress and significant one time expenses, I'm impressed with how our new budgeting system is working.  I wish we would have adopted it sooner."
 ---
 # Overview

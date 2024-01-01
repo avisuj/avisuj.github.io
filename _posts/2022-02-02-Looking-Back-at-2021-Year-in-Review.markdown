@@ -2,7 +2,7 @@
 layout: post
 title:  "Looking Back at 2021: Year in Review"
 date:   2022-02-02 19:15:59 -0600
-categories: [integrity, investing, legacy, tech]
+categories: [integrity, investing, legacy, tech, yearinreview]
 excerpt: "In summary, I'm really pleased with the way last year turned out.  While there's always some room for improvement, I think I'll be doing quite well if 2022 resembles 2021.  In addition, I think I'm on the right path in my personal, professional, and financial life."
 ---
 As I start this blog and we start 2022 - I think it's appropriate to do a look back.  I tend to track metrics focused around Financial Health and General Wellness.  A few years ago I came up with that strategy because I wasn't satisfied with just keeping track of our family budget.  I wanted to know if I was doing well.  In addition, I didn't like the idea of just focusing on money.  Having been corporate for almost fifteen years now, I'm not stranger to a balanced scorecard - so I've adopted it for my personal life.  Yes, I'm weird; but it works for me and helps me think about the progress I'm making to important goals like financial freedom, a healthy marriage, a spiritually centered life, and a healthy lifestyle.  My KPI's are pretty straight forward:
