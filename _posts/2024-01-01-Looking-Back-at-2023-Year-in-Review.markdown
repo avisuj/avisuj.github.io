@@ -2,7 +2,7 @@
 layout: post
 title:  "Looking Back at 2023: Year in Review"
 date:   2023-12-31 00:00:00 -0600
-categories: [integrity, investing, legacy, tech, yearinreview]
+categories: [integrity, investing, legacy, tech, faith, yearinreview]
 excerpt: "2023 has been a challenging year - our family is going through a religious awakening, I got laid off, and Abby is a teenager.  I feel like I've risen to the opportunity and still feel intimidated about how much change still needs to happen.  I take a solace in the thought - if you improve one percent day, by the end of the year you are nearly 4x better than you started.  Here's to what 2024 brings."
 ---
 # Overview
