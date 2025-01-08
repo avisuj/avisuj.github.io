@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Looking Back at 2025 A Year in Review"
+title:  "Looking Back at 2024 A Year in Review"
 date:   2025-01-07 00:00:00 -0600
 categories: [integrity, heart, legacy, faith, yearinreview, investing, parenting]
-excerpt: "This year has been a journey of growth, anchored by faith, family, and community. My baptism during Easter deepened my commitment to God, teaching me to love my family as they are and trust in His plan. Challenges within the family, including Abby's struggles, highlighted the importance of patience, listening, and unity, while community engagements like the Sujeeth Foundation and St. Vincent DePaul reinforced the value of service and impact. Looking ahead, I aim to strengthen my faith, nurture my family, and expand opportunities for community growth, all with God at the center."
+excerpt: "2024 has been a journey of growth, anchored by faith, family, and community. My baptism during Easter deepened my commitment to God, teaching me to love my family as they are and trust in His plan. Challenges within the family, including Abby's struggles, highlighted the importance of patience, listening, and unity, while community engagements like the Sujeeth Foundation and St. Vincent DePaul reinforced the value of service and impact. Looking ahead, I aim to strengthen my faith, nurture my family, and expand opportunities for community growth, all with God at the center."
 ---
 For me, the purpose of the year-end review is to reflect and discern if I am truly living in alignment with God’s purpose for me and making the best use of the resources I have been given. *For to everyone who has, more will be given* (Matthew 25:29). With this in mind, I examine my life through my core priorities: faith, family, and community.
 
