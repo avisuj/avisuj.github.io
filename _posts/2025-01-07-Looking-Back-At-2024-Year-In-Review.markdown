@@ -1,38 +1,73 @@
 ---
 layout: post
-title:  "Paths to a Meaningful Life"
-date:   2024-05-26 00:00:00 -0600
-categories: [integrity, heart, legacy, parenting]
-excerpt: "This blog post delves into the multifaceted nature of success and meaningful living, examining it through the lenses of faith, family, economics, and politics. It emphasizes the importance of faith in guiding one's actions towards serving others, highlights the significance of nurturing quality relationships for personal well-being, acknowledges the role of economic contributions in improving societal welfare, and explores the impact of political leadership on shaping collective values and progress. Ultimately, it suggests that living a meaningful life involves positively impacting those around us, with the specific path to success being unique to each individual."
+title:  "Looking Back at 2025 A Year in Review"
+date:   2025-01-07 00:00:00 -0600
+categories: [integrity, heart, legacy, faith, yearinreview, investing, parenting]
+excerpt: "This year has been a journey of growth, anchored by faith, family, and community. My baptism during Easter deepened my commitment to God, teaching me to love my family as they are and trust in His plan. Challenges within the family, including Abby's struggles, highlighted the importance of patience, listening, and unity, while community engagements like the Sujeeth Foundation and St. Vincent DePaul reinforced the value of service and impact. Looking ahead, I aim to strengthen my faith, nurture my family, and expand opportunities for community growth, all with God at the center."
 ---
-Yesterday, Abby shared with me that her definition of success was based around wealth.  That hit my hard because I think I’m falling short on God’s call to be charitable.  While Missy and I give a lot in terms of money, time, and talent – we live a comfortable life.  God calls us to give until it begins to hurt.  
-From the conversation, I began to reflect about how I define success.  To me, success means living a “meaningful life”.  I think there are many paths to find meaning in life.  
+For me, the purpose of the year-end review is to reflect and discern if I am truly living in alignment with God’s purpose for me and making the best use of the resources I have been given. *For to everyone who has, more will be given* (Matthew 25:29). With this in mind, I examine my life through my core priorities: faith, family, and community.
+
+---
 
 # Faith
-For me the most obvious path is the one routed in faith.  Saints have shown us how we can discern God’s will to use our talents:
-- in alleviating poverty (Saint Francis of Assisi, Saint Vincent de Paul, Saint Mother Teresa), 
-- advancing science and education (Saint Albert the Great, Saint Thomas Aquinas, Saint Ignatius of Loyola), 
-- comforting sinners (Saint Mary Magdalene, Saint Agustine de Hippo, Saint John Vianney), 
-- supporting those who sacrifice (Saint Joseph, Saint Maximilian Kolbe).  
+This year, I took a significant step in my faith journey: I was baptized during Easter. While I have long been a believer, this moment marked a transformation. It helped me realize that faith is not meant to be a solitary experience but something to be expressed with and for others. At its heart, faith is rooted in love—the love of a father for his son, God’s love for His chosen, and the love we offer to God and one another. This realization has prompted me to reflect deeply on how I express love, especially within my family, which I recognize as my immediate apostolate.
 
-The church provides a framework to help discern good – we will be able to tell good based on the fruit of the tree.  If the outcomes of an action are good, the action is likely to be good.  Further, actions can be evaluated based on the action itself, the intent and the circumstance.  
-By saying yes to God’s will we are likely journey towards a meaningful life. 
+One of the hardest lessons I’ve faced is that love does not mean control. I am learning to be weak in spirit, to submit my will to those I love, and to trust God’s plan. In the past, I tried to balance priorities, often making a mess of family dynamics. I worry that we, as a family, sometimes invent moral compasses rather than submitting to God’s. If anyone can fix the messes I’ve created, it is the Lord.
+
+Through prayer, reconciliation, and adoration, the message this year has been clear: love my family as they are and entrust them to God. Fully listening, holding patience, avoiding judgment, and trusting in God’s timing—these actions require me to stretch in ways that are uncomfortable but necessary.
+
+---
 
 # Family
-A Harvard Study on Happiness underscores the significance of quality relationships in fostering happiness and well-being over the lifespan. Close, supportive relationships—with family, friends, and community—are consistently linked to greater happiness, health, and longevity.  Contrary to popular belief, it's the quality, not the quantity, of relationships that matters most. Meaningful connections characterized by trust, empathy, and intimacy have a profound impact on happiness and overall life satisfaction.  Ultimately, the Harvard study emphasizes the transformative power of meaningful connections—with oneself, with others, and with the world around us. Investing in relationships, nurturing emotional health, pursuing personal growth, and living authentically are the cornerstones of a fulfilling and meaningful life.
+This year has been a struggle but also an opportunity for growth. Abby began cutting in September, reflecting their personal struggles with anxiety, self-discovery, and questions about sexuality and gender identity. These challenges have tested our family dynamics, particularly as faith has taken a more central role in our lives. Abby’s decision to stop attending church has been heartbreaking, but I am reminded to love them as they are, trust God, and practice patience as He works within our family.
 
-# Economic
-Many business leaders have contributed to the world.  They have helped harness creativity to generate value that improves the quality of life in aggregate.  Corporations have:
-- resulted in 100x increase in food production since the industrial revolution
-- resulted in 10x increase in travel
-- resulted in 2x increase in life span
-- resulted in 8x reduction in poverty
+Missy and I have had to confront differences in our perspectives on discipline, aspirations, faith, and acceptance. While disagreements have surfaced, they have also taught us the importance of building stronger listening skills. We are learning to respect each other’s emotions, ask clarifying questions, and rebuild trust. Our relationship remains rooted in love, and we are committed to growing as partners through these challenges.
 
-The good that leaders have contributed is obviously material.  An advantage of the economic system is that the accumulation of wealth can be a proxy of impact.  Generally, people accumulate more wealth when they can provide a narrow transactional benefit to a large group of people.
+---
 
-In addition to corporations, service organizations have helped deliver those results by reallocating resources in the economic system from donors to individuals that have need.  Like corporations the impact of these organizations can be measured through donations and people served.
+# Community
+My involvement in the community this year has been both rewarding and grounding. Here are some highlights:
 
-# Political
-Political leaders have a profound impact on society, shaping its values, institutions, and collective identity. Leaders such as Martin Luther King Jr., George Washington, Abraham Lincoln, and Franklin D. Roosevelt have left an indelible mark on history, each impacting society in profound ways. Through their leadership, they navigated tumultuous times, championed causes that resonated with the public, and inspired transformative change.  Political leaders have the power to shape society through their actions and influence. By forging meaningful connections with people, articulating a compelling vision for the future, and mobilizing collective action, leaders can inspire positive change and leave a lasting impact on society.
+- **Planet Technologies**: I am grateful for the opportunity to stay connected to the Microsoft community and help clients realize value from technology. While I achieved 75% of my quota last year, my focus on delegating and prospecting has paid off, with 200% pipeline coverage for the coming year.
 
-In summary, for me success is based on living a meaningful life – a life that positively impacts those we are connected with.  There are many paths to that success and the specific path is unique to the individual based on the charisms that God has provided.
+- **Sujeeth Foundation**: Through our partnership with the University of Missouri, we supported 300 college juniors in the Career Circle program, helping them navigate career choices. Our Four-Star Program pairs students with mentors to foster ownership of their career paths. Notably, 90% of participants reported they had not previously engaged with their university’s career center, highlighting our program’s impact.
+
+- **Saint Vincent DePaul**: Missy and I resumed volunteering, focusing on intake rather than home visits. Helping neighbors in need provides perspective and reminds me of the importance of service.
+
+- **RCIA, Exodus 90, Reach More**: These communities have strengthened my relationship with God. While I look forward to investing in others as they have invested in me, for now, they offer me much-needed spiritual nourishment.
+
+- **Men’s Ministries**: I stepped back from several fellowship groups to focus on family. I hope to reengage meaningfully in the new year.
+
+- **YMCA**: Biking to the gym has been a rewarding routine. While I scaled back in December to prioritize rest, I’m stronger and faster than I’ve been in years. I aim to maintain this momentum.
+
+---
+
+# Summary
+This year has been challenging but full of opportunities for growth. My faith continues to anchor me as I navigate family struggles and community commitments. Looking ahead, I see the chance to build a resilient family, deepen my relationship with Missy, and expand my impact in the community. None of this will be possible without God’s guidance.
+
+---
+
+# Key Events
+- Baptized during Easter.
+- Abby’s struggles with cutting began in the fall.
+- Sujeeth Foundation received recognition for career impact.
+- Ran a mile in 12 minutes for the first time in years.
+
+---
+
+# Lessons Learned
+- God is the center of my life.
+- I am called to minister to my family as Christ ministers to me.
+- I only need to bring five loaves and two fish; God will do the rest.
+- Networks are valuable and must be built with genuine interest before a time of need.
+
+---
+
+# Goals for 2025
+- Participate in the Eucharist Ministry.
+- Expand the Sujeeth Foundation to an additional school.
+- Increase net worth by $200K.
+- Lose ten pounds.
+- Plan 12+ date nights with Missy.
+- Achieve quota at Planet Technologies.
+- Take a trip to India and Southeast Asia.
