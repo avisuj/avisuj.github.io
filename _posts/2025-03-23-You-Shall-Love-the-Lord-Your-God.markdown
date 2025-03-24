@@ -45,9 +45,9 @@ I remembered what I learned in *Thanks for the Feedback*:
 > 2. **Coaching** – Guidance and advice: "Here’s how you can grow."
 > 3. **Evaluation** – Ranking or rating against a standard: "This is where you stand."
 
-I told Missy I wasn’t looking for **evaluation**—I needed **coaching** from a partner. Instead, I felt judged by her feedback.  As I explained what I needed.
+I told Missy I wasn’t looking for **evaluation**—I needed **coaching** from a partner. Instead, I felt judged by her feedback.  
 
-She was hurt. She felt like I had been keeping things from her. And she was right—I had not done a great job of communicating in the past. Rather than open up, I had encouraged my family to engage with my thoughts through books, classes, or external resources. But I hadn't found the words to share my heart.
+As I explained what I needed, She was hurt. She felt like I had been keeping things from her. And she was right—I had not done a great job of communicating in the past. Rather than open up, I had encouraged my family to engage with my thoughts through books, classes, or external resources. But I hadn't found the words to share my heart.
 
 ---
 
