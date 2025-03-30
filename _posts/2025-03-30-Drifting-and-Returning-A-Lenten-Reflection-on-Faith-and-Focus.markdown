@@ -1,7 +1,7 @@
 ---
 title: "Drifting and Returning A Lenten Reflection on Faith and Focus"
 layout: post
-date: 2025-03-23
+date: 2025-03-30
 categories: [integrity, faith, legacy, heart, parenting]
 excerpt: "This week reminded me how easily I drift from God without daily commitment. The Prodigal Son’s return and his father’s compassion struck a chord, especially as Missy and I navigate parenting’s challenges. While Abby is making strides, I found myself struggling—disappointment over Microsoft’s rejection led me into distraction and indulgence, wasting time on social media instead of being present.
 
