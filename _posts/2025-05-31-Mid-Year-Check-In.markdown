@@ -1,5 +1,5 @@
 ---
-title: "Climbing the Right Ladder: A Mid-Year Check-In"
+title: "The Right Forest: A Mid-Year Check-In"
 layout: post
 date: 2025-05-31
 categories: [integrity, faith, legacy, heart, parenting]
