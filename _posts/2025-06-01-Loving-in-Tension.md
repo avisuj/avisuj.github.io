@@ -3,7 +3,7 @@ title: "Loving in the Tension"
 layout: post
 date: 2025-06-01
 categories: [integrity, faith, legacy, heart, parenting]
-excerpt: "This is my prayer as a Catholic father trying to love well in a space that feels heavy and sacred. My daughter is exploring same-sex attraction, and while I hold to the truth of the Church’s teaching, I also know I’m called to love her with patience, kindness, and all the fruits of the Spirit. I believe she is a child of God, and if she draws closer to Him—even partially—I want to celebrate that. I’m learning that truth must be spoken in love, and love must be spoken in a way it can be received. I can’t control her journey, and that’s a kind of suffering I have to bear. But I believe God is present in the tension. My hope is to live this love with conviction and tenderness, trusting that God’s grace will do what I cannot.
+excerpt: "This is my prayer as a Catholic father trying to love well in a space that feels heavy and sacred. My daughter is exploring same-sex attraction, and while I hold to the truth of the Church’s teaching, I also know I’m called to love her with patience, kindness, and all the fruits of the Spirit. I believe she is a child of God, and if she draws closer to Him—even partially—I want to celebrate that. I’m learning that truth must be spoken in love, and love must be spoken in a way it can be received. I can’t control her journey, and that’s a kind of suffering I have to bear. But I believe God is present in the tension. My hope is to live this love with conviction and tenderness, trusting that God’s grace will do what I cannot."
 ---
 **Lord—**
 
