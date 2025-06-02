@@ -1,5 +1,5 @@
 ---
-title: "Loving in the Tension"
+title: "Loving in Tension"
 layout: post
 date: 2025-06-01
 categories: [integrity, faith, legacy, heart, parenting]
