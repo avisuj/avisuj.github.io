@@ -44,6 +44,7 @@ Your mercy **does not depend** on agreement—but it also **does not excuse** re
 I’ve been thinking about Fr. Mike Schmitz and his brother.
 
 > _“I love you. And I disagree with you.”_  
+
 That’s not cruelty. That’s clarity anchored in care.
 
 The world screams that disagreement is violence.  
