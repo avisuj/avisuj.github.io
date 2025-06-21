@@ -4,7 +4,7 @@ title: "The Spectrum of Love and Truth"
 date: 2025-06-21
 categories: faith fatherhood parenting identity
 tags: [integrity, faith, legacy, heart, parenting]
-excerpt: "When my daughter said, 'I think God should fit me,' I realized how easy it is to replace conviction with comfort. But love, real love, doesn’t demand agreement—it demands presence."
+excerpt: "In this post, I wrestle with the tension between love and truth as a father navigating my daughter Alexander’s identity journey. When she said, 'I think God should fit me,' it forced me to reflect on how culture pushes us from tolerance to support in ways that often compromise conviction. I unpack a spectrum—tolerance, accommodation, acceptance, support—and explore how each stage can risk moral clarity if disconnected from God’s truth. Drawing strength from confession, Fr. Mike Schmitz, and Scripture, I’m learning that real love doesn’t require agreement—it requires presence, patience, and faith. As a small act of trust, I gave my kids The Great Adventure Bible and invited them into daily reading and dinner conversations, hoping to root them in a relationship with God that isn’t built on self-definition, but surrender."
 ---
 
 Dear Lord,
