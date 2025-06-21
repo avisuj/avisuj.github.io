@@ -37,7 +37,6 @@ That’s not the Cross.
 
 Your love **confronts** sin by **forgiving** it.  
 Your truth **exposes** confusion by **calling** us home.  
-Your mercy **does not depend** on agreement—but it also **does not excuse** rebellion.
 
 ---
 
