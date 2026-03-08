@@ -39,11 +39,11 @@ When I'm laughing with my family, I'm not checking a box called "Love my Family.
 
 But Lord, there's one thing I can't seem to release, and I need to say it plainly in this prayer: **The distance from my parents is the hardest part.**
 
-The anger is still there. I carry it like a stone in my chest. I understand now that some of it isn't really about what they did or didn't do—it's about the impossibility of holding them, of fixing it, of going back and making it different. It's the anger of a child who couldn't save her parents, and now must live with that.
+The anger is still there. I carry it like a stone in my chest. I understand now that some of it isn't really about what they did or didn't do—it's about the impossibility of holding them, of fixing it, of going back and making it different. It's the anger of a child who couldn't save his parents, and now must live with that.
 
 I'm trying to learn what you're asking: *patience*. *Trust*. The acceptance that "all things have a season."
 
-But patience feels like forgetting. Trust feels like not caring anymore. And seasons—the word aches in my throat because it means accepting that some things don't return.
+But patience feels like forgetting. Trust feels like not caring anymore. And seasons—the word aches because it means accepting that some things don't return.
 
 Help me, Lord. Help me understand that *season* doesn't mean *loss*. That *distance* can hold love. That my anger, when brought to you, can become something else.
 
