@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Not In The Storm"
-date: 2026-03-15
+date: 2026-03-22
 categories: [integrity, faith, legacy, heart, parenting]
 excerpt: "I moved my family to St. Louis trusting it was God's will, and the peace I feel — walking to daily Mass, driving to the vigil with Missy — is confirming the path. My family doesn't all face the same direction in faith, and my job isn't to fix that but to stay present and bring each of them to God in whatever way I can. He is not in the storm, and this season is teaching me to stop looking for Him there and find Him instead in the quiet."
 ---
