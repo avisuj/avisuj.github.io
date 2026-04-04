@@ -51,7 +51,7 @@ I packed everything I had into a laundry basket. Friends came. We carried it out
 
 I moved in with a girlfriend. Not because I loved her the way you love a partner. Because she was the only door open.
 
-Lord, I need to be honest about this: that relationship was built on rejection. I wasn't looking for a partner. I was looking for someone who would choose me after my father had un-chosen me. Love built on that foundation isn't love. It's need wearing love's clothes. It was uneven from the start and it broke the way uneven things break — slowly, then all at once, with someone getting hurt.
+Lord, I need to be honest about this: that relationship was built on rejection. I wasn't looking for a partner. I was looking for someone who would choose me after my father had un-chosen me. Love built on that foundation isn't love. It's need wearing love's clothes. It was uneven from the start and it broke the way uneven things break — slowly, then all at once.
 
 ---
 
@@ -71,7 +71,7 @@ I went back home after that relationship ended. And here is the thing I have to 
 
 My father took me back.
 
-For all his words, for all the conditions, he opened the door. He loves me. I believe that. His love has always been real — it's just been distorted by grief he has never been able to name. He lost his parents young. He tried to end his own life before I knew him. He carries shame he can't put down, and when shame rises in him he shuts down, or he reaches for control. He isn't a villain. He's a wounded man who never had anyone show him another way.
+For all his words, for all the conditions, he opened the door. He loves me. I believe that. His love has always been real — it's just been distorted by grief he has never been able to name. He lost his parents young. He tried to end his own life before I knew him. He carries shame he can't put down, and when shame rises in him he shuts down, or he reaches for control. He isn't a villain. He's a wounded man who never had another way.
 
 The same is true for my mother. She was pushed into choices she didn't make freely. Degrees she didn't want. A marriage she didn't choose. A country that wasn't hers. She carries grief that is tangled up with anger at her own father, whom she still worships, and so the grief never gets processed — it comes out sideways as manipulation, as the need for attention, as creating crises that make her the center.
 
@@ -111,7 +111,7 @@ They couldn't. Not because they didn't want to. Because they are still in the mi
 
 ---
 
-The last rupture came over a trip. The details don't matter as much as this: my father needed me to show up in a particular way. I couldn't. I was barely holding together. I asked him to see me in that — to stand with me while my life was coming apart, to be the father I needed, not the one he was comfortable being.
+The latest rupture came over a trip. The details don't matter as much as this: my father needed me to show up in a particular way. I couldn't. I was barely holding together. I asked him to see me in that — to stand with me while my life was coming apart, to be the father I needed, not the one he was comfortable being.
 
 He shut down. He cut me off again.
 
@@ -128,8 +128,6 @@ And I know this about myself: I am not immune to their patterns. When they are i
 I am protecting my children from something I haven't fully escaped myself.
 
 ---
-
-*Agape*, Lord. Not because I've arrived at it. Because you're calling me toward it.
 
 I love my parents. I believe their love for me is real. I believe they are carrying wounds that were given to them before I was born. I believe that one day — your timing, not mine — there may be a way back to something.
 
