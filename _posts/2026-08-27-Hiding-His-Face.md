@@ -41,7 +41,7 @@ Second appointment, my counselor asked the question I came in expecting: could I
 
 I said no.
 
-My father was watching her. He didn't walk her to the bus stop. Something happened in that gap. When she came home late, he didn't ask what happened — he yelled at her. My parents have never acknowledged the the pain they caused or contributed to. Given the choice between facing it and pretending we don't exist, they've chosen, over and over, to pretend.
+My father was watching her. He didn't walk her to the bus stop. Something happened in that gap. When she came home late, he didn't ask what happened — he yelled at her. My parents have never acknowledged the pain they caused or contributed to. Given the choice between facing it and pretending we don't exist, they've chosen, over and over, to pretend.
 
 When I actually sat with that, it hit like a fist. Stomach and throat, both at once. I wanted to rush in and hold her, shield her, be the wall between her and whatever was coming. I couldn't. Not that day — I wasn't there. Not now — it already happened, and holding her today doesn't undo it.
 
