@@ -6,14 +6,6 @@ categories: [integrity, faith, legacy, heart, parenting]
 excerpt: "Three weeks into counseling after a move that finally made my family safe, I was given forgiving my parents as a penance in confession — and found I couldn't extend that forgiveness once an old wound involving my daughter entered the room, exposing something deeper: anger at my father's absence and silence, and a fear that God may not exist, or worse, may not want a relationship with me. Working through what acceptance actually means — for my daughter, my father, my family, and myself — I landed not on resignation but on something closer to celebration: seeing her fully as she is now, seeing my father as genuinely limited rather than willfully cruel, and admitting my own limitations for the first time. The piece ends unresolved, in an honest prayer that names my anger at God directly rather than performing a peace I haven't reached yet."
 ---
 
-
----
-layout: post
-title: ""
-date: 2026-08-27
-categories: [faith, family]
----
-
 We moved to St. Louis this year because I wanted my family safer. It worked. Missy and the kids started laughing again. We started having hard conversations instead of avoiding them. All of us exhaled.
 
 Because we were safe, I could finally look at what I'd been outrunning.
