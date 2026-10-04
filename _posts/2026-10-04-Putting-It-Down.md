@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What I'm Trying To Put Down"
-date: 2026-10-o4
+date: 2026-10-04
 categories: [integrity, faith, legacy, heart, parenting]
 excerpt: "I've been trying to put down the guilt and shame around my daughter's rape all at once, and I can't, because it's really a pile of separate things: the verdict that I failed her, the story that my insecurity caused it, the belief that a careful father would have prevented it, my anger at my parents, and the feeling that joy would be disloyal. My counselor and my wife have helped me see that I can set them down one at a time, and that I'm not defined by my lowest moment. I'm starting with the first piece and leaving the rest to God."
 ---
