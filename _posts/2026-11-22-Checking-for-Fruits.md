@@ -23,3 +23,7 @@ After Thanksgiving, Missy and I are going through the grief handbook. We're goin
 In parallel, you've given me the chance to help others through my work and the foundation. You have taken care of us. This semester started with 30 students and ended with 10, and the NPS was 0. I haven't heard from the 20 who left. My guess is that our mentors are still presenting content. They want to know they're helping kids succeed, but when a kid isn't invested yet, the content gets in the way. Presence comes before truth. Students tell me through surveys. I'm going to sit down 1:1 with mentors and ask them directly. I'm also building a mentor course on whole-heart listening, and on explaining content without using it. Mentors will certify once a year. I'm still working out the details. There will be another semester to learn from. I've gotten what I could out of this one.
 
 I believe a family that loves each other, and people in work that fits their ikigai, is a world you want. People using their talents for you and for each other. In the end it's your will, not mine. Remind me, Lord, to pause and check for your fruits, so I know I'm listening to your signals and not my own rationalization.
+
+*But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith, gentleness, and self-control. Against such things there is no law.*
+
+**- Galatians 5:22-23**
